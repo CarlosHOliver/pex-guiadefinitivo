@@ -503,7 +503,7 @@ Ambas as IAs, Pexy e Evil Pexy, foram criadas para te auxiliar em sua jornada no
 
 Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 
-> _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de livres e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
+> _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de lives e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
 
 ---
 Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 14/08/2025
