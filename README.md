@@ -161,7 +161,7 @@ Um aspecto fundamental do Projeto de Extensão na Descomplica é a sua relação
 
 Ao planejar seu PEX, você deverá analisar o objetivo do seu projeto e identificar qual ODS está mais alinhado com a sua proposta. Por exemplo, se o seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). Se for sobre gestão de resíduos, pode se relacionar com o ODS 12 (Consumo e Produção Responsáveis) ou ODS 11 (Cidades e Comunidades Sustentáveis).
 
-O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado. Mais pra frente, você conhecerá a Pexy e a Evil Pexy, essas duas Agentes de IA também podem auxiliar nessa identificação e no alinhamento do seu projeto com os ODS. Essa conexão com os ODS não apenas confere maior relevância ao seu projeto, mas também o insere em um contexto global de busca por soluções para os grandes desafios da humanidade.
+O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado. Mais pra frente, você conhecerá a [Pexy e a Evil Pexy](https://pexguiadefinitivo.vercel.app/#heading-38), essas duas Agentes de IA também podem auxiliar nessa identificação e no alinhamento do seu projeto com os ODS. Essa conexão com os ODS não apenas confere maior relevância ao seu projeto, mas também o insere em um contexto global de busca por soluções para os grandes desafios da humanidade.
 
 ---
 
@@ -352,7 +352,7 @@ R: Sim. O relatório final deve conter evidências da sua atuação, como fotos 
 
 **P: Como relaciono meu projeto com os ODS da ONU?**
 
-R: Analise o objetivo do seu projeto e veja qual ODS está mais próximo. Por exemplo, se seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado, e a [Pexy e a Evil Pexy](https://carlosholiver.github.io/pex-guiadefinitivo/#9-b%C3%B4nus-conhe%C3%A7a-a-pexy-e-a-evil-pexy) podem te ajudar com isso.
+R: Analise o objetivo do seu projeto e veja qual ODS está mais próximo. Por exemplo, se seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado, e a [Pexy e a Evil Pexy](https://pexguiadefinitivo.vercel.app/#heading-38) podem te ajudar com isso.
 
 **P: Posso usar uma experiência antiga que eu tive?**
 
@@ -417,7 +417,7 @@ Consultar esses projetos pode ser uma excelente forma de:
 *   **Entender o Nível de Qualidade:** Analisar projetos premiados ajuda a compreender o que a banca avaliadora busca em termos de impacto, metodologia e documentação.
 *   **Identificar Temas Relevantes:** Observar os temas dos projetos premiados pode indicar áreas de interesse e necessidades que foram bem exploradas por outros estudantes.
 
-Esses documentos estão anexados à base de conhecimento da Pexy para consulta, mas voce pode acessá-los clicando neste link:
+Esses documentos estão anexados à base de conhecimento da [Pexy](https://pexguiadefinitivo.vercel.app/#heading-38) para consulta, mas voce pode acessá-los clicando neste link:
 - [Anais da Mostra de Projetos Integradores de Extensão – UniAmérica](https://uniamerica.br/anais-mostra-de-projetos).
 
 ### 6.4. Suporte e Acompanhamento (Professor da Disciplina, Monitoria)
