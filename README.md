@@ -4,17 +4,17 @@
 
 Bem-vindo ao seu guia completo sobre o Projeto de Extensão (PEX) na Descomplica! Se você é estudante universitário, provavelmente já ouviu falar sobre a importância de aplicar o conhecimento acadêmico na prática e de como a universidade pode impactar positivamente a sociedade. O PEX é exatamente essa ponte, uma oportunidade única de transformar o que você aprende em sala de aula em ações concretas que beneficiam comunidades e organizações.
 
-Este ebook foi criado para desmistificar o PEX, fornecendo todas as informações que você precisa, desde a sua obrigatoriedade e os processos específicos da Descomplica, até dicas práticas para planejar, executar e documentar seu projeto. Nosso objetivo é que você se sinta seguro e preparado para embarcar nessa jornada extensionista, aproveitando ao máximo essa experiência enriquecedora.
+Criei este ebook para desmistificar o PEX, fornecendo todas as informações que você precisa, desde a sua obrigatoriedade e os processos específicos da Descomplica, até dicas práticas para planejar, executar e documentar seu projeto. Meu objetivo é que você se sinta seguro e preparado para embarcar nessa jornada extensionista, aproveitando ao máximo essa experiência enriquecedora.
 
 ### 1.1. O que é o Projeto de Extensão (PEX)?
 
-O Projeto de Extensão, também conhecido como Atividade de Extensão ou Extensão Universitária, é uma modalidade de atividade acadêmica que permite aos estudantes aplicar os conhecimentos adquiridos em seus cursos para resolver problemas reais e atender às necessidades da comunidade. É uma via de mão dupla: a universidade compartilha seu saber científico e tecnológico, e a sociedade, por sua vez, enriquece o ambiente acadêmico com suas experiências e demandas.
+O Projeto de Extensão, também conhecido como Atividade de Extensionista ou Extensão Universitária, é uma modalidade de atividade acadêmica que permite aos estudantes aplicar os conhecimentos adquiridos em seus cursos para resolver problemas reais e atender às necessidades da comunidade. É uma via de mão dupla: a universidade compartilha seu saber científico e tecnológico, e a sociedade, por sua vez, enriquece o ambiente acadêmico com suas experiências e demandas.
 
 Imagine, por exemplo, um estudante de Engenharia de Software desenvolvendo um sistema de gestão para uma ONG local, ou um aluno de Administração oferecendo consultoria financeira para pequenos empreendedores. Esses são exemplos claros de como o PEX funciona: o estudante utiliza suas habilidades para gerar um impacto social positivo, ao mesmo tempo em que aprimora sua formação profissional e pessoal.
 
 ### 1.2. Por que o PEX é obrigatório? (Resolução MEC e Descomplica)
 
-A obrigatoriedade do Projeto de Extensão não é uma iniciativa isolada da Descomplica, mas sim uma diretriz nacional. A **RESOLUÇÃO Nº 7, DE 18 DE DEZEMBRO DE 2018**, do Ministério da Educação (MEC), estabeleceu que as atividades de extensão devem ser um componente curricular obrigatório em todos os cursos de graduação, tanto presenciais quanto a distância (EaD), em todas as instituições de ensino superior do país. Essa resolução visa garantir que a formação universitária vá além da teoria, promovendo uma conexão mais profunda entre a academia e as demandas sociais.
+A obrigatoriedade do Projeto de Extensão não é uma iniciativa isolada da Descomplica, mas sim uma diretriz nacional. A [**RESOLUÇÃO Nº 7, DE 18 DE DEZEMBRO DE 2018**](https://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=105102-rces007-18&Itemid=30192), do Ministério da Educação (MEC), estabeleceu que as atividades de extensão devem ser um componente curricular obrigatório em todos os cursos de graduação, tanto presenciais quanto a distância (EaD), em todas as instituições de ensino superior do país. Essa resolução visa garantir que a formação universitária vá além da teoria, promovendo uma conexão mais profunda entre a academia e as demandas sociais.
 
 Na Descomplica, essa obrigatoriedade se aplica a todos os alunos que iniciaram seus estudos a partir de **agosto de 2023 (trimestre de 2023.3)**. Isso significa que, se você se matriculou a partir desse período, ou se trancou/evadiu e retomou os estudos após essa data, o PEX é uma disciplina essencial em sua grade curricular. Você deverá entregar um novo projeto a cada seis meses (semestralmente) até a conclusão do seu curso, e a realização do PEX é um pré-requisito fundamental para a sua colação de grau.
 
@@ -88,6 +88,8 @@ A Descomplica organiza os Projetos de Extensão em três grandes áreas, alinhad
 
 Essa categorização ajuda a direcionar o tipo de problema que você pode abordar e as soluções que pode propor, sempre buscando a aplicação prática do conhecimento da sua área.
 
+>Atualmente os Cursos de: Computação em Nuvem, Pedagogia e Sistemas Para Internet não possuem obrigatoriedade de [entrega](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAdIQSVg6503L4-loxSQHYpUwwPp2GB0wO1RO2NlFkucBUI4dcNyp48Fp4RCvyj4VV6COGo20jcPAK/pubhtml?gid=1292972339&single=true). 
+
 ### 2.3. Onde e Como Entregar o PEX (Central de Carreiras - Workalove)
 
 Todo o processo de acompanhamento e entrega do seu Projeto de Extensão na Descomplica é centralizado na **Central de Carreiras (Workalove)**. Esta plataforma é o seu principal ponto de contato para:
@@ -100,7 +102,7 @@ Todo o processo de acompanhamento e entrega do seu Projeto de Extensão na Desco
 
 ### 2.4. Prazos e Cronogramas (Importância do Calendário Acadêmico)
 
-Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o **Calendário Acadêmico Oficial da Descomplica** e a plataforma Workalove para verificar as datas específicas de entrega do seu projeto. O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
+Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o [**Calendário Acadêmico Oficial da Descomplica**](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753) e a plataforma Workalove para verificar as datas específicas de entrega do seu projeto. O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
 
 Para alunos calouros que ingressaram a partir do trimestre 25.3 (início das aulas em agosto/2025), o primeiro ciclo do PEX (PEX 1) será de caráter teórico, com foco na compreensão do funcionamento do projeto de extensão. O roteiro para essa etapa estará disponível na própria plataforma Workalove. Já para os veteranos, a entrega envolve a execução prática do Projeto de Extensão em campo, seguindo as instruções do roteiro e enviando as evidências pela plataforma.
 
@@ -129,7 +131,7 @@ O Projeto de Extensão pode ser realizado em uma variedade de ambientes, o que o
 *   **Espaços culturais:** Contribuir com projetos artísticos ou educativos.
 *   **Comunidades rurais ou urbanas:** Desenvolver projetos em áreas como política, meio ambiente, desenvolvimento comunitário e sustentabilidade.
 
-Você também pode propor **projetos autorais**, desde que tenha clareza sobre a situação-problema que deseja resolver e o público que será beneficiado. O importante é que o local escolhido permita a aplicação prática do seu conhecimento e gere um impacto social real.
+O importante é que o local escolhido permita a aplicação prática do seu conhecimento e gere um impacto social real.
 
 ### 3.2. PEX Presencial vs. Online: O que é permitido?
 
@@ -141,7 +143,7 @@ Isso não significa que o projeto não possa ter componentes digitais. Por exemp
 
 Você pode realizar seu Projeto de Extensão em parceria com um Microempreendedor Individual (MEI) ou até mesmo com uma pessoa física, desde que a atividade gere um impacto social real e esteja vinculada ao seu curso. Não é necessário que a instituição parceira possua um carimbo no Termo de Autorização; a assinatura de um responsável é suficiente.
 
-É fundamental, porém, que o PEX não seja realizado na própria empresa onde você trabalha, pois o objetivo é ampliar seu networking e atender a uma comunidade na qual você esteja inserido, fora do seu ambiente de trabalho habitual.
+É fundamental, porém, que o PEX NÃO seja realizado na própria empresa onde você trabalha, pois o objetivo é ampliar seu networking e atender a uma comunidade na qual você esteja inserido, fora do seu ambiente de trabalho habitual.
 
 ### 3.4. Projetos em Grupo: Como funciona?
 
@@ -230,7 +232,7 @@ Uma proposta de projeto de extensão eficaz deve conter os seguintes elementos:
 
 ### 4.3. Sugestões de Temas por Área de Conhecimento
 
-Para te inspirar na escolha do seu PEX, apresentamos algumas sugestões de temas alinhadas com as áreas da Descomplica (Tech, Gestão, Humanidades) e os Objetivos de Desenvolvimento Sustentável (ODS). Lembre-se que estas são apenas ideias; o mais importante é que o tema esteja alinhado com o roteiro da sua disciplina e com uma necessidade real da comunidade ou instituição parceira.
+Para te inspirar na escolha do seu PEX, listei algumas sugestões de temas alinhadas com as áreas da Descomplica (Tech, Gestão, Humanidades) e os Objetivos de Desenvolvimento Sustentável (ODS). Lembre-se que estas são apenas ideias; o mais importante é que o tema esteja alinhado com o roteiro da sua disciplina e com uma necessidade real da comunidade ou instituição parceira.
 
 #### 4.3.1. Área de Tecnologia (Tech)
 
@@ -283,7 +285,7 @@ O relatório final do PEX não é um TCC (Trabalho de Conclusão de Curso), port
 *   **Evidências:** Apresente as provas da sua atuação (fotos, prints, etc.).
 *   **Autoavaliação da Experiência:** Uma reflexão sobre o aprendizado, os desafios e as conquistas durante o PEX.
 
-O relatório pode ser entregue em formato Word ou PDF. É importante que ele contenha datas relevantes das atividades realizadas.
+O relatório pode ser entregue em formato PDF. É importante que ele contenha datas relevantes das atividades realizadas.
 
 #### 4.4.2. Tipos de Evidências Aceitas (Fotos, Prints, Termo de Autorização)
 
@@ -304,7 +306,7 @@ Para que seu Projeto de Extensão não seja apenas mais uma obrigação cumprida
 *   **Documente Bem:** Uma boa documentação não se resume a cumprir as exigências. Detalhe o processo, os desafios, as soluções encontradas e os resultados de forma clara e organizada. Isso valoriza seu trabalho e facilita a avaliação.
 *   **Tenha Clareza do Problema:** Antes de iniciar, certifique-se de que você compreendeu profundamente o problema que seu projeto visa resolver. Uma boa compreensão leva a soluções mais eficazes.
 *   **Mostre Resultados Mensuráveis:** Mesmo que simples, tente quantificar o impacto do seu projeto. Por exemplo, 'capacitou X pessoas', 'otimizou Y processo', 'reduziu Z tempo'. Isso demonstra o valor do seu trabalho.
-*   **Projetos Criativos e com Impacto Claro:** Projetos que demonstram criatividade, inovação e um impacto social evidente costumam ser reconhecidos e até mesmo premiados ou publicados nos Anais da faculdade.
+*   **Projetos Criativos e com Impacto Claro:** Projetos que demonstram criatividade, inovação e um impacto social evidente costumam ser reconhecidos e até mesmo selecionados para o Festival de Inovação Tecnológica com publicação nos Anais da faculdade.
 *   **Networking Ativo:** Aproveite a oportunidade para construir sua rede de contatos. Interaja com a equipe da instituição parceira, com outros estudantes e com os professores. Essas conexões podem ser valiosas para sua carreira.
 *   **Reflexão Constante:** Durante todo o processo, reflita sobre seu aprendizado, os desafios superados e como essa experiência contribui para sua formação pessoal e profissional.
 
@@ -312,7 +314,7 @@ Para que seu Projeto de Extensão não seja apenas mais uma obrigação cumprida
 
 ## 5. Perguntas Frequentes (FAQ) e Respostas Rápidas
 
-É natural ter dúvidas sobre o Projeto de Extensão, especialmente por ser uma atividade com características específicas. Reunimos aqui as perguntas mais frequentes dos alunos da Descomplica, com respostas claras e diretas, baseadas nos documentos oficiais da instituição.
+É natural ter dúvidas sobre o Projeto de Extensão, especialmente por ser uma atividade com características específicas. Reuni aqui as perguntas mais frequentes dos alunos da Descomplica, com respostas claras e diretas, baseadas nos documentos oficiais da instituição.
 
 ### 5.1. Dúvidas Comuns sobre o PEX
 
@@ -330,19 +332,15 @@ R: Depende do curso e semestre, mas, em geral, são exigidas 40 horas de ativida
 
 **P: Preciso ir presencialmente até a empresa/comunidade?**
 
-R: Sim, o PEX deve ser realizado presencialmente. A visita à instituição é necessária para identificar a real necessidade e desenvolver o projeto. Atividades online (cursos, capacitações) são consideradas Atividades Complementares.
-
-**P: Posso fazer o PEX na empresa de um parente ou onde eu trabalho?**
-
-R: Pode ser feito na empresa de um parente, desde que haja real impacto social, prática e vínculo com seu curso, e não seja apenas simbólico ou fictício. No entanto, não pode ser na mesma empresa onde você trabalha, pois o objetivo é ampliar seu networking e atender a uma comunidade fora do seu ambiente de trabalho habitual.
+R: Sim, o PEX deve ser realizado presencialmente. A visita à instituição é necessária para identificar a real necessidade e desenvolver o projeto.
 
 **P: Onde posso realizar meu projeto?**
 
-R: Em ONGs, escolas, hospitais, igrejas, empresas locais, associações de bairro, espaços culturais, comunidades rurais ou urbanas. Também é possível propor projetos autorais se tiver clareza da situação-problema e do público beneficiado.
+R: Em ONGs, escolas, hospitais, igrejas, empresas locais, associações de bairro, espaços culturais, comunidades rurais ou urbanas.
 
 **P: Posso fazer meu projeto com outros colegas?**
 
-R: Sim! Projetos em grupo são aceitos e incentivados (sugere-se grupos de até 4 alunos), mas cada aluno deve registrar e comprovar sua própria participação e carga horária individual no relatório.
+R: Sim! Projetos em grupo são aceitos e incentivados (sugere-se grupos de até 4 alunos da mesma cidade), mas cada aluno deve registrar e comprovar sua própria participação e carga horária individual no relatório.
 
 **P: O que devo entregar no final?**
 
@@ -354,7 +352,7 @@ R: Sim. O relatório final deve conter evidências da sua atuação, como fotos 
 
 **P: Como relaciono meu projeto com os ODS da ONU?**
 
-R: Analise o objetivo do seu projeto e veja qual ODS está mais próximo. Por exemplo, se seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado, e a Pexy pode te ajudar com isso.
+R: Analise o objetivo do seu projeto e veja qual ODS está mais próximo. Por exemplo, se seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado, e a [Pexy e a Evil Pexy](https://carlosholiver.github.io/pex-guiadefinitivo/#9-b%C3%B4nus-conhe%C3%A7a-a-pexy-e-a-evil-pexy) podem te ajudar com isso.
 
 **P: Posso usar uma experiência antiga que eu tive?**
 
@@ -396,7 +394,7 @@ Para complementar as informações deste guia e auxiliar ainda mais no desenvolv
 
 ### 6.1. Acesso ao Manual do Projeto de Extensão da Descomplica
 
-O Manual do Projeto de Extensão é um documento oficial da Descomplica que detalha as diretrizes, regras e procedimentos para a realização do PEX. Ele serve como um guia completo, abordando desde a conceituação até as etapas de execução e avaliação. É altamente recomendável que você acesse e leia este manual com atenção, pois ele contém informações específicas que podem não estar totalmente detalhadas neste ebook.
+O [Manual do Projeto de Extensão](https://1653949.fs1.hubspotusercontent-na1.net/hubfs/1653949/Manual%20Projeto%20de%20Extens%C3%A3o%202024.pdf) é um documento oficial da Descomplica que detalha as diretrizes, regras e procedimentos para a realização do PEX. Ele serve como um guia completo, abordando desde a conceituação até as etapas de execução e avaliação. É altamente recomendável que você acesse e leia este manual com atenção, pois ele contém informações específicas que podem não estar totalmente detalhadas neste ebook.
 
 Você pode acessar o Manual do Projeto de Extensão diretamente pela plataforma Workalove ou pelos canais de comunicação da Descomplica. Mantenha-o sempre à mão para consulta, especialmente quando surgirem dúvidas sobre aspectos regulamentares ou operacionais do seu projeto.
 
@@ -406,13 +404,12 @@ A Central de Carreiras Workalove é a plataforma central para todas as atividade
 
 *   **Roteiros e Materiais de Apoio:** A Workalove disponibiliza os roteiros específicos para cada PEX (PEX I, PEX II, etc.), que são o seu guia para o desenvolvimento do projeto. Além disso, você encontrará materiais de apoio, templates e orientações adicionais para cada etapa.
 *   **Acompanhamento do Status:** Através da plataforma, você pode acompanhar o status do seu projeto, verificar se as entregas foram recebidas e se há alguma pendência.
-*   **Comunicação:** A Workalove pode ser um canal de comunicação com a coordenação do PEX ou com os professores da disciplina, para tirar dúvidas e receber orientações.
 
 Familiarize-se com a interface e as funcionalidades da Workalove para otimizar seu tempo e garantir que todas as etapas do seu PEX sejam cumpridas corretamente.
 
-### 6.3. Onde Encontrar Projetos Premiados (Anais da Faculdade)
+### 6.3. Onde Encontrar Projetos Destaques (Anais da Faculdade)
 
-Para se inspirar e ter uma ideia da qualidade e do tipo de projetos que são valorizados na Descomplica, você pode consultar os **Anais publicados pela faculdade**. Os Anais são publicações que reúnem os destaques e projetos premiados de outros alunos, organizados por curso e área de atuação.
+Para se inspirar e ter uma ideia da qualidade e do tipo de projetos que são valorizados na Descomplica, você pode consultar os **Anais publicados pela faculdade**. Os Anais são publicações que reúnem os destaques e projetos destaques de outros alunos, organizados por curso e área de atuação.
 
 Consultar esses projetos pode ser uma excelente forma de:
 
@@ -429,17 +426,20 @@ Você não está sozinho nessa jornada! A Descomplica oferece canais de suporte 
 
 *   **Professor da Disciplina:** O professor responsável pela disciplina de PEX é seu principal orientador. Ele pode dar orientações, tirar dúvidas sobre o roteiro, a metodologia e a avaliação do projeto. Para falar com ele siga os passos na IA.Smin: 
 
-    - Estudos -> Conteúdo e Tutoria -> Tutoria -> Falar com Tutor -> Disciplina Projeto de Extensão -> Digitar sua dúvida
-*   **Monitoria:** A Descomplica pode oferecer monitorias específicas para o PEX, onde monitores (alunos mais experientes) podem auxiliar com dúvidas mais pontuais e dar dicas práticas. Verifique os horários das monitorias nos cards na página inicial da plataforma. 
+        >  Estudos -> Conteúdo e Tutoria -> Tutoria -> Falar com Tutor -> Disciplina Projeto de Extensão -> Digitar sua dúvida
+*   **Monitoria:** A Descomplica oferece monitorias específicas para o PEX, onde monitores (alunos mais experientes) podem auxiliar com dúvidas mais pontuais e dar dicas práticas. Verifique os horários das monitorias nos cards na página inicial da plataforma. 
     - Conheça os monitores [clicando aqui.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjjaMY4LMGHnJXBcOY2dwumSGJ7AkFoYhwBwyC6qXCx8AttvKsRPOvCNSMX3evABZv1ryM_VIJAqzZ/pubhtml?gid=1487663872&single=true&utm_campaign=%5BCS%20Gradua%C3%A7%C3%A3o%5D%20Ongoing&utm_medium=email&_hsenc=p2ANqtz-_mewSeep7XtsnyLYbSFXhiDZIcD7c6TCqgDA5mLR95RZt7_xudeBR487bHH6xWdIwLCVu-13CJT_RLLDrY8UCwz9WjbQ&_hsmi=371938538&utm_content=371938538&utm_source=hs_email)
+    - Faça perguntas relativas ao PEX [clicando aqui](https://docs.google.com/forms/d/e/1FAIpQLSfIF8sNzxC20n7nYkmQJe5s3jyPR3hmiEydjeIPMlJS7a6fwg/viewform)
+        - Veja as respostas [clicando aqui](https://docs.google.com/spreadsheets/d/1KBaABNK6AsEDeCefvJ78GxFhan8suep09ri0e4d9L78/edit?gid=1914202926#gid=1914202926)
 *   **Central de Atendimento:** Para dúvidas administrativas ou problemas técnicos com a plataforma, utilize a Central de Atendimento da Descomplica. É importante abrir tickets para registrar suas solicitações e acompanhar as respostas.
 
 Não hesite em buscar ajuda sempre que precisar. O suporte oferecido pela Descomplica existe para garantir que você tenha todas as ferramentas e orientações para realizar um PEX de sucesso.
 
 ---
+
 ## 7. O que PODE e o que NÃO PODE fazer no PEX
 
-Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regras da Descomplica, criamos esta seção com um resumo claro e direto do que é permitido e do que não é permitido no seu Projeto de Extensão. Consulte esta lista sempre que tiver dúvidas sobre a validade de uma ideia ou ação.
+Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regras da Descomplica, criei esta seção com um resumo claro e direto do que é permitido e do que não é permitido no seu Projeto de Extensão. Consulte esta lista sempre que tiver dúvidas sobre a validade de uma ideia ou ação.
 
 ### ✅ O que PODE fazer:
 
@@ -466,7 +466,7 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 
 ## 8. Conclusão
 
-Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Esperamos que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
+Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Espero que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
 
 O Projeto de Extensão é muito mais do que uma disciplina; é uma oportunidade de aplicar seu conhecimento, desenvolver habilidades essenciais para o mercado de trabalho, expandir sua rede de contatos e, acima de tudo, gerar um impacto positivo na sociedade. É a chance de ser um agente de transformação, levando a universidade para além dos muros da academia e contribuindo para um mundo melhor.
 
@@ -503,7 +503,7 @@ Ambas as IAs, Pexy e Evil Pexy, foram criadas para te auxiliar em sua jornada no
 
 Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 
-> _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
+> _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de livres e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
 
 ---
 Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 14/08/2025
@@ -514,3 +514,5 @@ Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028)
 - [Q&A Monitoria](https://docs.google.com/spreadsheets/d/1KBaABNK6AsEDeCefvJ78GxFhan8suep09ri0e4d9L78/edit?gid=1914202926#gid=1914202926)
 - [O que é Projeto de Extensão? - AJUDA](https://no.descomplica.com.br/knowledge/o-que-%C3%A9-projeto-de-extens%C3%A3o)
 - [Retorno das Dúvidas sobre a PEX](https://docs.google.com/spreadsheets/d/1lYDKhNibkUfTKA-zaaOOIaPYgV-MZdvdf1DabjMZC0E/edit?gid=1421006678#gid=1421006678)
+- [Calendário Acadêmico](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753)
+- [Prazo de Entregas](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAdIQSVg6503L4-loxSQHYpUwwPp2GB0wO1RO2NlFkucBUI4dcNyp48Fp4RCvyj4VV6COGo20jcPAK/pubhtml?gid=1292972339&single=true)
