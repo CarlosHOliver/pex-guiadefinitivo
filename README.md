@@ -403,7 +403,7 @@ Você pode acessar o Manual do Projeto de Extensão diretamente pela plataforma 
 A Central de Carreiras Workalove é a plataforma central para todas as atividades relacionadas ao seu PEX. Além de ser o local de entrega do seu projeto, ela oferece funcionalidades essenciais para o seu acompanhamento:
 
 *   **Roteiros e Materiais de Apoio:** A Workalove disponibiliza os roteiros específicos para cada PEX (PEX I, PEX II, etc.), que são o seu guia para o desenvolvimento do projeto. Além disso, você encontrará materiais de apoio, templates e orientações adicionais para cada etapa.
-*   **Acompanhamento do Status:** Através da plataforma, você pode acompanhar o status do seu projeto, verificar se as entregas foram recebidas e se há alguma pendência.
+*   **Acompanhamento do Status:** Através da plataforma, você pode acompanhar o status do seu projeto.
 
 Familiarize-se com a interface e as funcionalidades da Workalove para otimizar seu tempo e garantir que todas as etapas do seu PEX sejam cumpridas corretamente.
 
