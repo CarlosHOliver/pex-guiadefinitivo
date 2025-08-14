@@ -472,7 +472,7 @@ O Projeto de Extensão é muito mais do que uma disciplina; é uma oportunidade 
 
 Lembre-se: o planejamento, a proatividade e a busca por apoio são seus maiores aliados. Utilize os recursos disponíveis na Descomplica, mantenha-se atento aos roteiros e prazos, e não hesite em buscar orientação sempre que precisar. Cada PEX é uma jornada única, repleta de aprendizados e desafios que o prepararão para os próximos passos da sua carreira e da sua vida.
 
-Agora, é com você! Coloque em prática o que aprendeu, abrace essa oportunidade e faça do seu Projeto de Extensão uma história de sucesso. O impacto que você pode gerar é imenso, e a Descomplica está aqui para apoiar cada passo dessa sua trajetória.
+Agora, é com você! Coloque em prática o que aprendeu, abrace essa oportunidade e faça do seu Projeto de Extensão uma história de sucesso. O impacto que você pode gerar é imenso.
 
 Sucesso em seu PEX!
 
