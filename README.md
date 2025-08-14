@@ -251,11 +251,11 @@ Lembre-se que a escolha do tema deve ser feita em conjunto com a identificação
 
 ### 4.4. Documentação e Evidências: O que entregar?
 
-A documentação é uma parte fundamental do seu Projeto de Extensão, pois é através dela que você comprovará a realização das atividades e o impacto gerado. A Descomplica exige a entrega de um relatório final e evidências que comprovem sua atuação [3].
+A documentação é uma parte fundamental do seu Projeto de Extensão, pois é através dela que você comprovará a realização das atividades e o impacto gerado. A Descomplica exige a entrega de um relatório final e evidências que comprovem sua atuação.
 
 #### 4.4.1. O Relatório Final: Estrutura e Conteúdo
 
-O relatório final do PEX não é um TCC (Trabalho de Conclusão de Curso), portanto, não exige a mesma formalidade e extensão. Ele deve ser um descritivo claro e objetivo das atividades realizadas e das evidências coletadas [3]. Embora a Descomplica não forneça um modelo pronto de relatório, você terá liberdade para montá-lo seguindo o roteiro da sua disciplina. Geralmente, um bom relatório deve conter:
+O relatório final do PEX não é um TCC (Trabalho de Conclusão de Curso), portanto, não exige a mesma formalidade e extensão. Ele deve ser um descritivo claro e objetivo das atividades realizadas e das evidências coletadas. Embora a Descomplica não forneça um modelo pronto de relatório, você terá liberdade para montá-lo seguindo o roteiro da sua disciplina. Geralmente, um bom relatório deve conter:
 
 *   **Descrição do Projeto:** Um resumo do que foi o projeto, seus objetivos e a instituição parceira.
 *   **Objetivos do PEX:** Reafirme os objetivos gerais e específicos do seu projeto.
@@ -286,7 +286,7 @@ Para que seu Projeto de Extensão não seja apenas mais uma obrigação cumprida
 *   **Documente Bem:** Uma boa documentação não se resume a cumprir as exigências. Detalhe o processo, os desafios, as soluções encontradas e os resultados de forma clara e organizada. Isso valoriza seu trabalho e facilita a avaliação.
 *   **Tenha Clareza do Problema:** Antes de iniciar, certifique-se de que você compreendeu profundamente o problema que seu projeto visa resolver. Uma boa compreensão leva a soluções mais eficazes.
 *   **Mostre Resultados Mensuráveis:** Mesmo que simples, tente quantificar o impacto do seu projeto. Por exemplo, 'capacitou X pessoas', 'otimizou Y processo', 'reduziu Z tempo'. Isso demonstra o valor do seu trabalho.
-*   **Projetos Criativos e com Impacto Claro:** Projetos que demonstram criatividade, inovação e um impacto social evidente costumam ser reconhecidos e até mesmo premiados ou publicados nos Anais da faculdade [3].
+*   **Projetos Criativos e com Impacto Claro:** Projetos que demonstram criatividade, inovação e um impacto social evidente costumam ser reconhecidos e até mesmo premiados ou publicados nos Anais da faculdade.
 *   **Networking Ativo:** Aproveite a oportunidade para construir sua rede de contatos. Interaja com a equipe da instituição parceira, com outros estudantes e com os professores. Essas conexões podem ser valiosas para sua carreira.
 *   **Reflexão Constante:** Durante todo o processo, reflita sobre seu aprendizado, os desafios superados e como essa experiência contribui para sua formação pessoal e profissional.
 
@@ -308,7 +308,7 @@ R: Sim, é obrigatório para alunos que ingressaram a partir de agosto de 2023 (
 
 **P: Qual é a carga horária do PEX?**
 
-R: Depende do curso e semestre, mas, em geral, são exigidas 40 horas de atividades por semestre com PEX ativo. Verifique no plano de ensino da disciplina [3].
+R: Depende do curso e semestre, mas, em geral, são exigidas 40 horas de atividades por semestre com PEX ativo. Verifique no plano de ensino da disciplina.
 
 **P: Preciso ir presencialmente até a empresa/comunidade?**
 
@@ -440,24 +440,24 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 
 ### ✅ O que PODE fazer:
 
-*   **Realizar o projeto em grupo:** A Descomplica incentiva projetos em grupo de até 4 alunos. Lembre-se que cada membro deve comprovar sua participação individual [3].
-*   **Fazer o PEX em ONGs, escolas, igrejas, empresas locais, etc.:** A escolha do local é flexível, desde que haja relevância social e alinhamento com seu curso [1, 3].
-*   **Realizar o projeto com um MEI ou pessoa física:** Não é obrigatório que a instituição parceira tenha CNPJ, desde que a atividade tenha impacto social e seja comprovada [3].
-*   **Propor um projeto autoral:** Se você identificar um problema e um público-alvo claro, pode desenvolver um projeto próprio, sem estar vinculado a uma instituição existente [1].
-*   **Usar prints de ferramentas online como evidência:** Se o seu projeto resultar em um produto digital (site, aplicativo, etc.), prints da tela são válidos como comprovação no relatório [3].
-*   **Dar continuidade a um projeto em semestres seguintes:** Você pode aprofundar e expandir um projeto iniciado em PEXs anteriores, com a autorização da instituição parceira [3].
-*   **Comercializar o projeto após a entrega:** Se seu projeto tiver potencial de mercado, você pode comercializá-lo após o término do prazo de entrega do PEX [3].
-*   **Criar um e-book ou material educativo:** Distribuir conhecimento em formato de e-book, cartilhas ou outros materiais para a comunidade é uma forma válida de projeto [3].
+*   **Realizar o projeto em grupo:** A Descomplica incentiva projetos em grupo de até 4 alunos. Lembre-se que cada membro deve comprovar sua participação individual.
+*   **Fazer o PEX em ONGs, escolas, igrejas, empresas locais, etc.:** A escolha do local é flexível, desde que haja relevância social e alinhamento com seu curso.
+*   **Realizar o projeto com um MEI ou pessoa física:** Não é obrigatório que a instituição parceira tenha CNPJ, desde que a atividade tenha impacto social e seja comprovada.
+*   **Propor um projeto autoral:** Se você identificar um problema e um público-alvo claro, pode desenvolver um projeto próprio, sem estar vinculado a uma instituição existente.
+*   **Usar prints de ferramentas online como evidência:** Se o seu projeto resultar em um produto digital (site, aplicativo, etc.), prints da tela são válidos como comprovação no relatório.
+*   **Dar continuidade a um projeto em semestres seguintes:** Você pode aprofundar e expandir um projeto iniciado em PEXs anteriores, com a autorização da instituição parceira.
+*   **Comercializar o projeto após a entrega:** Se seu projeto tiver potencial de mercado, você pode comercializá-lo após o término do prazo de entrega do PEX.
+*   **Criar um e-book ou material educativo:** Distribuir conhecimento em formato de e-book, cartilhas ou outros materiais para a comunidade é uma forma válida de projeto.
 
 ### ❌ O que NÃO PODE fazer:
 
-*   **Realizar o PEX de forma 100% online:** O PEX exige presencialidade. Atividades como cursos e capacitações online são consideradas Atividades Complementares [3].
-*   **Fazer o PEX na empresa onde você trabalha:** O objetivo é ampliar seu networking e atender a uma comunidade externa ao seu ambiente de trabalho [3].
-*   **Utilizar projetos ou experiências antigas:** O PEX deve ser realizado durante o período vigente da disciplina. Atividades passadas não são aceitas [3].
-*   **Escolher um tema livre, sem seguir o roteiro:** O tema do seu PEX é o roteiro disponibilizado na plataforma Workalove. Você deve seguir as diretrizes estabelecidas [3].
-*   **Entregar o relatório sem evidências:** O relatório final deve obrigatoriamente conter evidências da sua atuação, como fotos, prints e o Termo de Autorização assinado [3].
-*   **Deixar de entregar o PEX:** O Projeto de Extensão é uma disciplina obrigatória e sua não realização impede a conclusão do curso e a colação de grau [3].
-*   **Realizar o projeto sem impacto social claro:** O PEX deve ir além de uma simples atividade acadêmica; ele precisa gerar um benefício real e mensurável para a comunidade ou instituição parceira [1].
+*   **Realizar o PEX de forma 100% online:** O PEX exige presencialidade. Atividades como cursos e capacitações online são consideradas Atividades Complementares.
+*   **Fazer o PEX na empresa onde você trabalha:** O objetivo é ampliar seu networking e atender a uma comunidade externa ao seu ambiente de trabalho.
+*   **Utilizar projetos ou experiências antigas:** O PEX deve ser realizado durante o período vigente da disciplina. Atividades passadas não são aceitas.
+*   **Escolher um tema livre, sem seguir o roteiro:** O tema do seu PEX é o roteiro disponibilizado na plataforma Workalove. Você deve seguir as diretrizes estabelecidas.
+*   **Entregar o relatório sem evidências:** O relatório final deve obrigatoriamente conter evidências da sua atuação, como fotos, prints e o Termo de Autorização assinado.
+*   **Deixar de entregar o PEX:** O Projeto de Extensão é uma disciplina obrigatória e sua não realização impede a conclusão do curso e a colação de grau.
+*   **Realizar o projeto sem impacto social claro:** O PEX deve ir além de uma simples atividade acadêmica; ele precisa gerar um benefício real e mensurável para a comunidade ou instituição parceira.
 *   **Copiar projetos de outros alunos:** A originalidade e a autenticidade são fundamentais. Busque inspiração, mas desenvolva um projeto próprio e alinhado com suas habilidades e interesses.
 
 ---
@@ -484,4 +484,11 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 
 Ambas as IAs, Pexy e Evil Pexy, foram criadas para te auxiliar em sua jornada no PEX, cada uma à sua maneira. A escolha de qual delas você prefere buscar ajuda depende do seu estilo de aprendizado e do tipo de desafio que você enfrenta. Ambas têm o objetivo final de te ajudar a ter sucesso no seu Projeto de Extensão.
 
+Acesse as aqui [PexyAI](https://linktr.ee/PexyAI)
+
 ---
+
+## Referências
+- [Q&A Monitoria](https://docs.google.com/spreadsheets/d/1KBaABNK6AsEDeCefvJ78GxFhan8suep09ri0e4d9L78/edit?gid=1914202926#gid=1914202926)
+- [O que é Projeto de Extensão? - AJUDA](https://no.descomplica.com.br/knowledge/o-que-%C3%A9-projeto-de-extens%C3%A3o)
+- [Retorno das Dúvidas sobre a PEX](https://docs.google.com/spreadsheets/d/1lYDKhNibkUfTKA-zaaOOIaPYgV-MZdvdf1DabjMZC0E/edit?gid=1421006678#gid=1421006678)
