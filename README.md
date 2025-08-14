@@ -481,7 +481,7 @@ Sucesso em seu PEX!
 
 ## 9. Bônus: Conheça a Pexy e a Evil Pexy
 
-Durante sua jornada no Projeto de Extensão, você pode se deparar com diferentes tipos de apoio. Aqui, apresentamos duas inteligências artificiais criadas para auxiliar os alunos da Descomplica, cada uma com uma abordagem única para o PEX.
+Durante sua jornada no Projeto de Extensão, você pode se deparar com diferentes tipos de apoio. Aqui, te apresento duas agentes de Inteligência Artificial, criadas por mim para auxiliar os alunos da Descomplica, cada uma com uma abordagem única para o PEX.
 
 ### 9.1. Pexy: A Assistente Gentil e Encorajadora
 
