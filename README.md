@@ -82,9 +82,9 @@ Conforme mencionado na introdução, a obrigatoriedade do PEX na Descomplica se 
 
 A Descomplica organiza os Projetos de Extensão em três grandes áreas, alinhadas aos diferentes cursos oferecidos. Essa divisão visa direcionar os projetos para que sejam mais relevantes e aplicáveis à formação específica de cada estudante. As áreas são:
 
-*   **Tech:** Destinada a cursos de Engenharia de Computação, Análise e Desenvolvimento de Sistemas, Ciência de Dados e outras graduações da área de Tecnologia da Informação. Os projetos aqui geralmente envolvem desenvolvimento de software, soluções digitais, segurança da informação, entre outros.
+*   **Tech:** Destinada a cursos de Engenharia de Computação, Análise e Desenvolvimento de Sistemas, Engenharia de Software e outras graduações da área de Tecnologia da Informação. Os projetos aqui geralmente envolvem desenvolvimento de software, soluções digitais, segurança da informação, entre outros.
 *   **Gestão:** Abrange cursos como Recursos Humanos, Administração, Marketing, Logística e áreas afins. Os projetos focam em consultoria empresarial, planejamento estratégico, gestão financeira, otimização de processos, e outras soluções para organizações.
-*   **Humanidades:** Voltada para cursos como Teologia, Pedagogia, e outras áreas que lidam com aspectos sociais, culturais e educacionais. Os projetos podem incluir ações sociais, educativas, culturais, de conscientização e apoio a comunidades.
+*   **Humanidades:** Voltada para cursos como Teologia e outras áreas que lidam com aspectos sociais, culturais e educacionais. Os projetos podem incluir ações sociais, educativas, culturais, de conscientização e apoio a comunidades.
 
 Essa categorização ajuda a direcionar o tipo de problema que você pode abordar e as soluções que pode propor, sempre buscando a aplicação prática do conhecimento da sua área.
 
@@ -145,7 +145,7 @@ Você pode realizar seu Projeto de Extensão em parceria com um Microempreendedo
 
 ### 3.4. Projetos em Grupo: Como funciona?
 
-Projetos de Extensão em grupo são aceitos e até incentivados pela Descomplica, pois promovem o trabalho em equipe e a troca de experiências. A sugestão é que os grupos sejam compostos por **até 4 alunos**. Mesmo em projetos em grupo, é crucial que cada aluno registre e comprove sua participação individual e a carga horária no relatório final. Isso garante que a contribuição de cada membro seja devidamente reconhecida e avaliada.
+Projetos de Extensão em grupo são aceitos e até incentivados pela Descomplica, pois promovem o trabalho em equipe e a troca de experiências. A sugestão é que os grupos sejam compostos por **até 4 alunos residentes na mesma cidade**. Mesmo em projetos em grupo, é crucial que cada aluno registre e comprove sua participação individual e a carga horária no relatório final. Isso garante que a contribuição de cada membro seja devidamente reconhecida e avaliada.
 
 ### 3.5. Entendendo o Roteiro do PEX: Seu Guia Essencial
 
@@ -159,7 +159,7 @@ Um aspecto fundamental do Projeto de Extensão na Descomplica é a sua relação
 
 Ao planejar seu PEX, você deverá analisar o objetivo do seu projeto e identificar qual ODS está mais alinhado com a sua proposta. Por exemplo, se o seu projeto envolve educação infantil, ele pode estar ligado ao ODS 4 (Educação de Qualidade). Se for sobre gestão de resíduos, pode se relacionar com o ODS 12 (Consumo e Produção Responsáveis) ou ODS 11 (Cidades e Comunidades Sustentáveis).
 
-O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado. A ferramenta Pexy, da Descomplica, também pode auxiliar nessa identificação e no alinhamento do seu projeto com os ODS. Essa conexão com os ODS não apenas confere maior relevância ao seu projeto, mas também o insere em um contexto global de busca por soluções para os grandes desafios da humanidade.
+O roteiro da disciplina de PEX geralmente orienta qual ODS deve ser abordado. Mais pra frente, você conhecerá a Pexy e a Evil Pexy, essas duas Agentes de IA também podem auxiliar nessa identificação e no alinhamento do seu projeto com os ODS. Essa conexão com os ODS não apenas confere maior relevância ao seu projeto, mas também o insere em um contexto global de busca por soluções para os grandes desafios da humanidade.
 
 ---
 
@@ -388,10 +388,6 @@ Se você perceber que não conseguirá terminar o projeto a tempo, o ideal é in
 
 Sim, é possível dar continuidade ao mesmo projeto em semestres subsequentes. Se você iniciou um projeto na PEX I, por exemplo, e deseja desenvolvê-lo ainda mais, pode seguir com as etapas de desenvolvimento nas PEXs seguintes. Isso dependerá apenas do seu interesse e da autorização da instituição parceira.
 
-### 5.4. Comercialização de Projetos de Extensão
-
-Se você criar um projeto para o PEX que se mostre promissor e haja interesse de compra, sim, ele pode ser comercializado. A comercialização pode ocorrer após o término da data de entrega do PEX. O importante é que o projeto atenda aos critérios de extensão (prática, alinhamento com o curso e impacto social) durante sua realização acadêmica.
-
 ---
 
 ## 6. Recursos Adicionais
@@ -424,14 +420,18 @@ Consultar esses projetos pode ser uma excelente forma de:
 *   **Entender o Nível de Qualidade:** Analisar projetos premiados ajuda a compreender o que a banca avaliadora busca em termos de impacto, metodologia e documentação.
 *   **Identificar Temas Relevantes:** Observar os temas dos projetos premiados pode indicar áreas de interesse e necessidades que foram bem exploradas por outros estudantes.
 
-Esses documentos estão anexados à base de conhecimento da Pexy para consulta, e você pode solicitá-los através dos canais de suporte da Descomplica.
+Esses documentos estão anexados à base de conhecimento da Pexy para consulta, mas voce pode acessá-los clicando neste link:
+- [Anais da Mostra de Projetos Integradores de Extensão – UniAmérica](https://uniamerica.br/anais-mostra-de-projetos).
 
 ### 6.4. Suporte e Acompanhamento (Professor da Disciplina, Monitoria)
 
 Você não está sozinho nessa jornada! A Descomplica oferece canais de suporte e acompanhamento para auxiliar no desenvolvimento do seu PEX:
 
-*   **Professor da Disciplina:** O professor responsável pela disciplina de PEX é seu principal orientador. Ele pode dar orientações, tirar dúvidas sobre o roteiro, a metodologia e a avaliação do projeto. Fique atento aos encontros síncronos e aos fóruns da disciplina para interagir com o professor e outros colegas.
-*   **Monitoria:** A Descomplica pode oferecer monitorias específicas para o PEX, onde monitores (alunos mais experientes) podem auxiliar com dúvidas mais pontuais e dar dicas práticas. Verifique a disponibilidade e os horários das monitorias na plataforma Workalove ou nos comunicados da faculdade.
+*   **Professor da Disciplina:** O professor responsável pela disciplina de PEX é seu principal orientador. Ele pode dar orientações, tirar dúvidas sobre o roteiro, a metodologia e a avaliação do projeto. Para falar com ele siga os passos na IA.Smin: 
+
+    - Estudos -> Conteúdo e Tutoria -> Tutoria -> Falar com Tutor -> Disciplina Projeto de Extensão -> Digitar sua dúvida
+*   **Monitoria:** A Descomplica pode oferecer monitorias específicas para o PEX, onde monitores (alunos mais experientes) podem auxiliar com dúvidas mais pontuais e dar dicas práticas. Verifique os horários das monitorias nos cards na página inicial da plataforma. 
+    - Conheça os monitores [clicando aqui.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjjaMY4LMGHnJXBcOY2dwumSGJ7AkFoYhwBwyC6qXCx8AttvKsRPOvCNSMX3evABZv1ryM_VIJAqzZ/pubhtml?gid=1487663872&single=true&utm_campaign=%5BCS%20Gradua%C3%A7%C3%A3o%5D%20Ongoing&utm_medium=email&_hsenc=p2ANqtz-_mewSeep7XtsnyLYbSFXhiDZIcD7c6TCqgDA5mLR95RZt7_xudeBR487bHH6xWdIwLCVu-13CJT_RLLDrY8UCwz9WjbQ&_hsmi=371938538&utm_content=371938538&utm_source=hs_email)
 *   **Central de Atendimento:** Para dúvidas administrativas ou problemas técnicos com a plataforma, utilize a Central de Atendimento da Descomplica. É importante abrir tickets para registrar suas solicitações e acompanhar as respostas.
 
 Não hesite em buscar ajuda sempre que precisar. O suporte oferecido pela Descomplica existe para garantir que você tenha todas as ferramentas e orientações para realizar um PEX de sucesso.
@@ -446,7 +446,6 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 *   **Realizar o projeto em grupo:** A Descomplica incentiva projetos em grupo de até 4 alunos. Lembre-se que cada membro deve comprovar sua participação individual.
 *   **Fazer o PEX em ONGs, escolas, igrejas, empresas locais, etc.:** A escolha do local é flexível, desde que haja relevância social e alinhamento com seu curso.
 *   **Realizar o projeto com um MEI ou pessoa física:** Não é obrigatório que a instituição parceira tenha CNPJ, desde que a atividade tenha impacto social e seja comprovada.
-*   **Propor um projeto autoral:** Se você identificar um problema e um público-alvo claro, pode desenvolver um projeto próprio, sem estar vinculado a uma instituição existente.
 *   **Usar prints de ferramentas online como evidência:** Se o seu projeto resultar em um produto digital (site, aplicativo, etc.), prints da tela são válidos como comprovação no relatório.
 *   **Dar continuidade a um projeto em semestres seguintes:** Você pode aprofundar e expandir um projeto iniciado em PEXs anteriores, com a autorização da instituição parceira.
 *   **Comercializar o projeto após a entrega:** Se seu projeto tiver potencial de mercado, você pode comercializá-lo após o término do prazo de entrega do PEX.
@@ -502,7 +501,12 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 
 Ambas as IAs, Pexy e Evil Pexy, foram criadas para te auxiliar em sua jornada no PEX, cada uma à sua maneira. A escolha de qual delas você prefere buscar ajuda depende do seu estilo de aprendizado e do tipo de desafio que você enfrenta. Ambas têm o objetivo final de te ajudar a ter sucesso no seu Projeto de Extensão.
 
-Acesse as aqui [PexyAI](https://linktr.ee/PexyAI)
+Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
+
+> _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
+
+---
+Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 14/08/2025
 
 ---
 
