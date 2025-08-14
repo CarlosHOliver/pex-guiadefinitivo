@@ -48,6 +48,24 @@ Se você estuda **Administração** e tem interesse em **Tecnologia**, pode assi
 
 As Atividades Complementares permitem que você personalize seu aprendizado e adquira novas habilidades essenciais para sua carreira, enquanto o Projeto de Extensão oferece a oportunidade de aplicar, de maneira prática, o conhecimento obtido em sala de aula, contribuindo para o seu desenvolvimento social e pessoal.
 
+### 1.5. PEX vs. Estágio Supervisionado: Principais Diferenças
+
+Embora ambos sejam componentes importantes da formação acadêmica, o Projeto de Extensão (PEX) e o Estágio Supervisionado têm objetivos, regras e formatos distintos no ensino superior:
+
+| Característica                 | Projeto de Extensão (PEX)                                   | Estágio Supervisionado                                      |
+|--------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| **Obrigatoriedade**            | Obrigatório em todos os cursos de graduação (Resolução MEC) | Obrigatório em cursos específicos (ex: licenciaturas, saúde, engenharias) |
+| **Objetivo**                   | Aplicação do conhecimento acadêmico para impacto social     | Vivência prática profissional na área de formação           |
+| **Local de realização**        | Comunidade, ONGs, escolas, empresas, associações            | Empresas, escolas, hospitais, órgãos públicos, etc.         |
+| **Supervisão**                 | Orientação de professor e, às vezes, parceiro externo       | Orientação obrigatória de profissional habilitado (supervisor) e acompanhamento docente |
+| **Carga horária**              | Definida pela instituição (ex: 40h/semestre)                | Definida por lei e pelo curso (ex: 200h, 400h, etc.)        |
+| **Documentação**               | Relatório, evidências, termo de autorização                 | Relatórios, fichas de frequência, avaliações, termo de compromisso |
+| **Avaliação**                  | Banca acadêmica ou professor responsável                    | Avaliação do supervisor e do professor orientador           |
+| **Foco**                       | Impacto social, desenvolvimento pessoal e comunitário       | Experiência profissional, preparação para o mercado de trabalho |
+
+**Resumo:**
+O PEX é voltado para o desenvolvimento social e comunitário, promovendo a aplicação prática do conhecimento acadêmico em benefício da sociedade. Já o Estágio Supervisionado tem como foco principal a inserção do estudante no ambiente profissional, permitindo vivenciar situações reais de trabalho sob supervisão, conforme exigências legais e do curso. Ambos são fundamentais, mas atendem a propósitos diferentes na formação universitária.
+
 ---
 
 ## 2. Regras e Processos na Descomplica
@@ -419,22 +437,7 @@ Você não está sozinho nessa jornada! A Descomplica oferece canais de suporte 
 Não hesite em buscar ajuda sempre que precisar. O suporte oferecido pela Descomplica existe para garantir que você tenha todas as ferramentas e orientações para realizar um PEX de sucesso.
 
 ---
-
-## 7. Conclusão
-
-Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Esperamos que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
-
-O Projeto de Extensão é muito mais do que uma disciplina; é uma oportunidade de aplicar seu conhecimento, desenvolver habilidades essenciais para o mercado de trabalho, expandir sua rede de contatos e, acima de tudo, gerar um impacto positivo na sociedade. É a chance de ser um agente de transformação, levando a universidade para além dos muros da academia e contribuindo para um mundo melhor.
-
-Lembre-se: o planejamento, a proatividade e a busca por apoio são seus maiores aliados. Utilize os recursos disponíveis na Descomplica, mantenha-se atento aos roteiros e prazos, e não hesite em buscar orientação sempre que precisar. Cada PEX é uma jornada única, repleta de aprendizados e desafios que o prepararão para os próximos passos da sua carreira e da sua vida.
-
-Agora, é com você! Coloque em prática o que aprendeu, abrace essa oportunidade e faça do seu Projeto de Extensão uma história de sucesso. O impacto que você pode gerar é imenso, e a Descomplica está aqui para apoiar cada passo dessa sua trajetória.
-
-Sucesso em seu PEX!
-
----
-
-## 8. O que PODE e o que NÃO PODE fazer no PEX
+## 7. O que PODE e o que NÃO PODE fazer no PEX
 
 Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regras da Descomplica, criamos esta seção com um resumo claro e direto do que é permitido e do que não é permitido no seu Projeto de Extensão. Consulte esta lista sempre que tiver dúvidas sobre a validade de uma ideia ou ação.
 
@@ -461,6 +464,21 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 *   **Copiar projetos de outros alunos:** A originalidade e a autenticidade são fundamentais. Busque inspiração, mas desenvolva um projeto próprio e alinhado com suas habilidades e interesses.
 
 ---
+
+## 8. Conclusão
+
+Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Esperamos que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
+
+O Projeto de Extensão é muito mais do que uma disciplina; é uma oportunidade de aplicar seu conhecimento, desenvolver habilidades essenciais para o mercado de trabalho, expandir sua rede de contatos e, acima de tudo, gerar um impacto positivo na sociedade. É a chance de ser um agente de transformação, levando a universidade para além dos muros da academia e contribuindo para um mundo melhor.
+
+Lembre-se: o planejamento, a proatividade e a busca por apoio são seus maiores aliados. Utilize os recursos disponíveis na Descomplica, mantenha-se atento aos roteiros e prazos, e não hesite em buscar orientação sempre que precisar. Cada PEX é uma jornada única, repleta de aprendizados e desafios que o prepararão para os próximos passos da sua carreira e da sua vida.
+
+Agora, é com você! Coloque em prática o que aprendeu, abrace essa oportunidade e faça do seu Projeto de Extensão uma história de sucesso. O impacto que você pode gerar é imenso, e a Descomplica está aqui para apoiar cada passo dessa sua trajetória.
+
+Sucesso em seu PEX!
+
+---
+
 
 ## 9. Bônus: Conheça a Pexy e a Evil Pexy
 
