@@ -6,6 +6,8 @@ Bem-vindo ao seu guia completo sobre o Projeto de Extensão (PEX) na Descomplica
 
 Criei este ebook para desmistificar o PEX, fornecendo todas as informações que você precisa, desde a sua obrigatoriedade e os processos específicos da Descomplica, até dicas práticas para planejar, executar e documentar seu projeto. Meu objetivo é que você se sinta seguro e preparado para embarcar nessa jornada extensionista, aproveitando ao máximo essa experiência enriquecedora.
 
+>**Aviso Importante:** Este guia é uma iniciativa de um aluno para outro. Compilei aqui tudo o que aprendi sobre o Projeto de Extensão em lives, webinars e FAQs para facilitar nossa jornada. Pense neste material como um ponto de partida, mas lembre-se de que ele não substitui as orientações oficiais. Para informações definitivas, consulte **SEMPRE** os canais da **Faculdade Descomplica**."
+
 ### 1.1. O que é o Projeto de Extensão (PEX)?
 
 O Projeto de Extensão, também conhecido como Atividade de Extensionista ou Extensão Universitária, é uma modalidade de atividade acadêmica que permite aos estudantes aplicar os conhecimentos adquiridos em seus cursos para resolver problemas reais e atender às necessidades da comunidade. É uma via de mão dupla: a universidade compartilha seu saber científico e tecnológico, e a sociedade, por sua vez, enriquece o ambiente acadêmico com suas experiências e demandas.
