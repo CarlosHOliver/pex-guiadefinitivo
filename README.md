@@ -277,7 +277,7 @@ A documentação é uma parte fundamental do seu Projeto de Extensão, pois é a
 
 #### 4.4.1. O Relatório Final: Estrutura e Conteúdo
 
-O relatório final do PEX não é um TCC (Trabalho de Conclusão de Curso), portanto, não exige a mesma formalidade e extensão. Ele deve ser um descritivo claro e objetivo das atividades realizadas e das evidências coletadas. Embora a Descomplica não forneça um modelo pronto de relatório, você terá liberdade para montá-lo seguindo o roteiro da sua disciplina. Geralmente, um bom relatório deve conter:
+O relatório final do PEX não é um TCC (Trabalho de Conclusão de Curso), portanto, não exige a mesma formalidade e extensão. Ele deve ser um descritivo claro e objetivo das atividades realizadas e das evidências coletadas. Embora a Descomplica não forneça um modelo pronto de relatório, você terá liberdade para montá-lo seguindo o roteiro do seu curso. Geralmente, um bom relatório deve conter:
 
 *   **Descrição do Projeto:** Um resumo do que foi o projeto, seus objetivos e a instituição parceira.
 *   **Objetivos do PEX:** Reafirme os objetivos gerais e específicos do seu projeto.
