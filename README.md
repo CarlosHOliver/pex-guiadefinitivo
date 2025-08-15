@@ -75,9 +75,9 @@ A principal diferença está no foco do primeiro semestre. O **PEX I** agora tem
 
 #### O que isso significa na prática?
 
->Para Calouros (ingressantes a partir de 2025.3): A nova diretriz significa que seu foco inicial será totalmente no aprendizado. Esqueça a preocupação em buscar empresas ou parceiros no **PEX I**; sua missão é absorver o conhecimento do roteiro. A execução prática e o contato com a comunidade acontecerão nos semestres seguintes, quando você já terá uma base sólida.
+>**Para Calouros (ingressantes a partir de 2025.3):** A nova diretriz significa que seu foco inicial será totalmente no aprendizado. Esqueça a preocupação em buscar empresas ou parceiros no **PEX I**; sua missão é absorver o conhecimento do roteiro. A execução prática e o contato com a comunidade acontecerão nos semestres seguintes, quando você já terá uma base sólida.
 
->Para Veteranos (que cursaram o modelo antigo): Fique tranquilo, seu **PEX I** continua válido e não precisa ser refeito. Seu papel agora é de um mentor valioso, ciente de que a jornada para os novos colegas é diferente e mais estruturada no início.
+>**Para Veteranos (que cursaram o modelo antigo):** Fique tranquilo, seu **PEX I** continua válido e não precisa ser refeito. Seu papel agora é de um mentor valioso, ciente de que a jornada para os novos colegas é diferente e mais estruturada no início.
 
 Essa mudança visa garantir uma preparação mais consistente para todos os estudantes, resultando em projetos de maior qualidade e impacto. Para detalhes específicos, lembre-se sempre de consultar o roteiro oficial na plataforma Workalove.
 
