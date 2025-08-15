@@ -68,6 +68,19 @@ Embora ambos sejam componentes importantes da formação acadêmica, o Projeto d
 **Resumo:**
 O PEX é voltado para o desenvolvimento social e comunitário, promovendo a aplicação prática do conhecimento acadêmico em benefício da sociedade. Já o Estágio Supervisionado tem como foco principal a inserção do estudante no ambiente profissional, permitindo vivenciar situações reais de trabalho sob supervisão, conforme exigências legais e do curso. Ambos são fundamentais, mas atendem a propósitos diferentes na formação universitária.
 
+### 1.6. Mudança Importante no PEX I: O que muda a partir de 2025.3
+Para garantir que sua jornada comece com o pé direito, é fundamental compreender uma mudança estratégica implementada pela Descomplica a partir de **Agosto de 2025** (trimestre **2025.**3). A estrutura do **PEX I** foi repensada para proporcionar uma base mais sólida e segura, substituindo o antigo modelo de "mergulho profundo" por uma abordagem mais pedagógica e estruturada.
+
+A principal diferença está no foco do primeiro semestre. O **PEX I** agora tem um caráter preparatório e introdutório, concentrando-se em construir um entendimento robusto sobre o que são projetos de extensão, sua conexão com os Objetivos de **Desenvolvimento Sustentável (ODS)** e as competências essenciais para o sucesso, antes de qualquer contato prático com instituições parceiras. O objetivo é que você se sinta mais confiante e preparado para a etapa de execução.
+
+#### O que isso significa na prática?
+
+>Para Calouros (ingressantes a partir de 2025.3): A nova diretriz significa que seu foco inicial será totalmente no aprendizado. Esqueça a preocupação em buscar empresas ou parceiros no **PEX I**; sua missão é absorver o conhecimento do roteiro. A execução prática e o contato com a comunidade acontecerão nos semestres seguintes, quando você já terá uma base sólida.
+
+>Para Veteranos (que cursaram o modelo antigo): Fique tranquilo, seu **PEX I** continua válido e não precisa ser refeito. Seu papel agora é de um mentor valioso, ciente de que a jornada para os novos colegas é diferente e mais estruturada no início.
+
+Essa mudança visa garantir uma preparação mais consistente para todos os estudantes, resultando em projetos de maior qualidade e impacto. Para detalhes específicos, lembre-se sempre de consultar o roteiro oficial na plataforma Workalove.
+
 ---
 
 ## 2. Regras e Processos na Descomplica
