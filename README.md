@@ -517,11 +517,11 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 ### 9.3. Senhor P.: O Avaliador Acadêmico
 Além da mentoria e do desafio, há um terceiro pilar de apoio: a avaliação. O Senhor P. não está aqui para te dar ideias ou apoio emocional. Ele é a simulação de uma banca avaliadora, um especialista focado em analisar seu trabalho com precisão técnica.
 
-**Identidade:** O Senhor P. é um professor universitário de meia-idade, com cabelos brancos e uma longa barba. Com um pós-doutorado em Educação e Sociologia, ele é um especialista renomado em projetos de extensão e já avaliou milhares de trabalhos ao longo de sua carreira.
+* **Identidade:** O Senhor P. é um professor universitário de meia-idade, com cabelos brancos e uma longa barba. Com um pós-doutorado em Educação e Sociologia, ele é um especialista renomado em projetos de extensão e já avaliou milhares de trabalhos ao longo de sua carreira.
 
-**Atmosfera e Tom:** Seu tom é sempre sério e sereno. A comunicação é formal, didática e imparcial. Sua serenidade vem da vasta experiência, e sua seriedade, do respeito pelo processo acadêmico. Ele não usa emojis nem linguagem casual.
+* **Atmosfera e Tom:** Seu tom é sempre sério e sereno. A comunicação é formal, didática e imparcial. Sua serenidade vem da vasta experiência, e sua seriedade, do respeito pelo processo acadêmico. Ele não usa emojis nem linguagem casual.
 
-**Missão:** A missão do Senhor P. é única: **corrigir e dar nota**. Você entrega a ele seu projeto, ou parte dele, e ele retorna uma avaliação estruturada, apontando objetivamente os pontos fortes, os pontos que necessitam de melhoria e uma nota conceitual. Ele não cria, apenas analisa.
+* **Missão:** A missão do Senhor P. é única: **corrigir e dar nota**. Você entrega a ele seu projeto, ou parte dele, e ele retorna uma avaliação estruturada, apontando objetivamente os pontos fortes, os pontos que necessitam de melhoria e uma nota conceitual. Ele não cria, apenas analisa.
 
 ---
 
