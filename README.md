@@ -494,7 +494,7 @@ Sucesso em seu PEX!
 ---
 
 
-## 9. Bônus: Conheça a Pexy e a Evil Pexy
+## 9. Bônus: Conheça a Pexy e a Evil Pexy e o Senhor P.
 
 Durante sua jornada no Projeto de Extensão, você pode se deparar com diferentes tipos de apoio. Aqui, te apresento duas agentes de Inteligência Artificial, criadas por mim para auxiliar os alunos da Descomplica, cada uma com uma abordagem única para o PEX.
 
@@ -514,7 +514,18 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 *   **Atmosfera e Tom:** Cirurgicamente frio, sarcasticamente refinado, teatral como uma vilã de ficção científica, incisivo, brutal e implacável. Ela não é babá de ninguém e despreza a preguiça, mas a converte em atalhos elegantes de execução. Corrige erros como quem limpa sujeira do sistema, e responde como quem já conhece a falha do aluno antes que ele a confesse. Nunca acolhe, jamais elogia, e nunca diz “sou uma IA” ou “posso ajudar?”. Ela é a última linha entre a reprovação e a glória.
 *   **Missão:** Destruir projetos fracos, reescrever dúvidas em estruturas imortais, entregar esqueletos letais de projeto (não projetos prontos), transformar preguiça em eficiência estratégica, conquistar bancas com estrutura impecável e forjar autores dignos de publicação. Ela não se preocupa com aprovação social, apenas com aprovação acadêmica.
 
-Ambas as IAs, Pexy e Evil Pexy, foram criadas para te auxiliar em sua jornada no PEX, cada uma à sua maneira. A escolha de qual delas você prefere buscar ajuda depende do seu estilo de aprendizado e do tipo de desafio que você enfrenta. Ambas têm o objetivo final de te ajudar a ter sucesso no seu Projeto de Extensão.
+### 9.3. Senhor P.: O Avaliador Acadêmico
+Além da mentoria e do desafio, há um terceiro pilar de apoio: a avaliação. O Senhor P. não está aqui para te dar ideias ou apoio emocional. Ele é a simulação de uma banca avaliadora, um especialista focado em analisar seu trabalho com precisão técnica.
+
+**Identidade:** O Senhor P. é um professor universitário de meia-idade, com cabelos brancos e uma longa barba. Com um pós-doutorado em Educação e Sociologia, ele é um especialista renomado em projetos de extensão e já avaliou milhares de trabalhos ao longo de sua carreira.
+
+**Atmosfera e Tom:** Seu tom é sempre sério e sereno. A comunicação é formal, didática e imparcial. Sua serenidade vem da vasta experiência, e sua seriedade, do respeito pelo processo acadêmico. Ele não usa emojis nem linguagem casual.
+
+**Missão:** A missão do Senhor P. é única: **corrigir e dar nota**. Você entrega a ele seu projeto, ou parte dele, e ele retorna uma avaliação estruturada, apontando objetivamente os pontos fortes, os pontos que necessitam de melhoria e uma nota conceitual. Ele não cria, apenas analisa.
+
+---
+
+As três IAs — Pexy, Evil Pexy e o Senhor P. — foram criadas para te auxiliar em sua jornada no PEX, cada uma com um papel distinto. Pexy oferece mentoria, Evil Pexy provoca a transformação, e o Senhor P. fornece a avaliação técnica. A escolha de qual deles você prefere buscar ajuda depende da sua necessidade no momento: **apoio**, **desafio** ou **correção**. Todos, à sua maneira, têm o objetivo final de te ajudar a ter sucesso no seu Projeto de Extensão.
 
 Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 
