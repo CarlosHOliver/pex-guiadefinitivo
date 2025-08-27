@@ -528,7 +528,7 @@ As três IAs — Pexy, Evil Pexy e o Senhor P. — foram criadas para te auxilia
 
 Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 
-<!-- > _Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de lives e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._ --->
+_Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de lives e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
 
 >_Pensando em oferecer a melhor experiência possível, criei uma nova versão da Pexy e da Evil Pexy no Google Gemini! Acredito que a performance delas está ainda melhor que as versões anteriores do ChatGPT. O Gemini não tem os limites de interações que outras plataformas costumam ter, garantindo que você nunca fique na mão. Sinta-se à vontade para usar a versão que preferir, pois o objetivo de ambas é o mesmo: te ajudar a brilhar no PEX! Adicione aos favoritos do seu Google Drive a pasta ["Base de conhecimento PEX"](https://drive.google.com/drive/u/0/folders/1d3S4BbwdRlCGh9yvwOKG8M7gefcwHjHB) e expanda o conhecimento das três IAs_
 
