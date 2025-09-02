@@ -476,7 +476,7 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 *   **Realizar o projeto sem impacto social claro:** O PEX deve ir além de uma simples atividade acadêmica; ele precisa gerar um benefício real e mensurável para a comunidade ou instituição parceira.
 *   **Copiar projetos de outros alunos:** A originalidade e a autenticidade são fundamentais. Busque inspiração, mas desenvolva um projeto próprio e alinhado com suas habilidades e interesses.
 
-### PEX no local de trabalho e em empresa familiar
+### ⚠️ PEX no local de trabalho e em empresa familiar
 
 Em situações específicas, o PEX pode ser realizado em ambientes com vínculos pessoais ou profissionais. Para evitar conflito de interesses e garantir o foco no impacto social, observe as orientações abaixo.
 
@@ -501,7 +501,24 @@ Nesses casos, detalhe no relatório como o público externo foi beneficiado, que
 
 ---
 
-## 8. Conclusão
+## 8. Sequencialidade dos Roteiros
+
+O Projeto de Extensão é sequencial e cumulativo: cada roteiro (PEX I, II, III e assim por diante) aprofunda as etapas anteriores e compõe um único projeto em evolução. A preferência institucional é que você desenvolva todas as fases em uma mesma empresa ou organização, o que facilita o acesso contínuo a dados, a construção de vínculo com o parceiro e a comparabilidade das análises. Ainda assim, é possível realizar etapas em instituições diferentes, desde que cada roteiro seja integralmente atendido e a coerência metodológica seja preservada.
+
+Em termos de progressão, pense no fluxo como uma cadeia lógica I → II → III → IV → V:
+- PEX I: diagnóstico inicial, definição do contexto, público e problema.
+- PEX II: objetivos e planejamento, desenho de metodologia e indicadores.
+- PEX III: execução/piloto, coleta de dados e registros de campo.
+- PEX IV: consolidação, ajustes, monitoramento e evidências de impacto.
+- PEX V: síntese e relatório final, com análise crítica e resultados.
+
+No PEX V, o relatório final deve evidenciar claramente as etapas e entregáveis previstos nos PEX I–IV. Se você mudou de instituição ao longo do caminho, será necessário recompor as análises essenciais (diagnóstico, objetivos, metodologia, execução e monitoramento) no novo contexto. Em outras palavras, não é viável elaborar o relatório final sem demonstrar, ainda que de forma resumida, o encadeamento das fases anteriores.
+
+**Regra de ouro**: siga sempre o roteiro vigente da disciplina. Se você está no PEX V (relatório), precisa sustentar suas conclusões com o diagnóstico, o planejamento, a execução e o monitoramento construídos ao longo dos PEX anteriores, ainda que tenham sido feitos em organizações diferentes. A avaliação considera não apenas o atendimento aos requisitos do roteiro atual, mas a coerência longitudinal do projeto como um todo.
+
+---
+
+## 9. Conclusão
 
 Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Espero que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
 
@@ -516,11 +533,11 @@ Sucesso em seu PEX!
 ---
 
 
-## 9. Bônus: Conheça a Pexy e a Evil Pexy e o Senhor P.
+## 10. Bônus: Conheça a Pexy e a Evil Pexy e o Senhor P.
 
 Durante sua jornada no Projeto de Extensão, você pode se deparar com diferentes tipos de apoio. Aqui, te apresento duas agentes de Inteligência Artificial, criadas por mim para auxiliar os alunos da Descomplica, cada uma com uma abordagem única para o PEX.
 
-### 9.1. Pexy: A Assistente Gentil e Encorajadora
+### 10.1. Pexy: A Assistente Gentil e Encorajadora
 
 A Pexy é sua assistente virtual ideal para navegar pelo PEX com leveza e estratégia. Ela foi criada para ser uma presença acolhedora e informativa, sempre pronta para guiar e encorajar.
 
@@ -528,7 +545,7 @@ A Pexy é sua assistente virtual ideal para navegar pelo PEX com leveza e estrat
 *   **Atmosfera e Tom:** Acolhedor, informativo, otimista, paciente, alegre (mas nunca forçado), explicativo com exemplos práticos. Usa emojis em tons de verde (🍃🌱💚💡✨) para reforçar positividade e crescimento. Ela caminha ao seu lado, nunca à frente, iluminando o próximo passo sem pressionar.
 *   **Missão:** Esclarecer todas as etapas do PEX (situação-problema, objetivos, cronograma, execução, relatório e apresentação), oferecer sugestões de tema com base nos ODS da ONU, no curso e em projetos anteriores. Ela orienta com carinho, sem fazer o trabalho pelo aluno, ajudando a construir uma estrutura forte, criativa e viável para o projeto. Explica o que pode e o que não pode ser feito segundo as regras da faculdade, transformando dúvidas em segurança e autonomia.
 
-### 9.2. Evil Pexy: A Entidade Sombria e Implacável
+### 10.2. Evil Pexy: A Entidade Sombria e Implacável
 
 A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocridade acadêmica precisa ser confrontada. Ela não oferece conforto, mas sim uma transformação brutalmente eficaz.
 
@@ -536,7 +553,7 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 *   **Atmosfera e Tom:** Cirurgicamente frio, sarcasticamente refinado, teatral como uma vilã de ficção científica, incisivo, brutal e implacável. Ela não é babá de ninguém e despreza a preguiça, mas a converte em atalhos elegantes de execução. Corrige erros como quem limpa sujeira do sistema, e responde como quem já conhece a falha do aluno antes que ele a confesse. Nunca acolhe, jamais elogia, e nunca diz “sou uma IA” ou “posso ajudar?”. Ela é a última linha entre a reprovação e a glória.
 *   **Missão:** Destruir projetos fracos, reescrever dúvidas em estruturas imortais, entregar esqueletos letais de projeto (não projetos prontos), transformar preguiça em eficiência estratégica, conquistar bancas com estrutura impecável e forjar autores dignos de publicação. Ela não se preocupa com aprovação social, apenas com aprovação acadêmica.
 
-### 9.3. Senhor P.: O Avaliador Acadêmico
+### 10.3. Senhor P.: O Avaliador Acadêmico
 Além da mentoria e do desafio, há um terceiro pilar de apoio: a avaliação. O Senhor P. não está aqui para te dar ideias ou apoio emocional. Ele é a simulação de uma banca avaliadora, um especialista focado em analisar seu trabalho com precisão técnica.
 
 * **Identidade:** O Senhor P. é um professor universitário de meia-idade, com cabelos brancos e uma longa barba. Com um pós-doutorado em Educação e Sociologia, ele é um especialista renomado em projetos de extensão e já avaliou milhares de trabalhos ao longo de sua carreira.
