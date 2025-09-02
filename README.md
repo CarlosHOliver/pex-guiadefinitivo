@@ -573,7 +573,7 @@ Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 >_Pensando em oferecer a melhor experiência possível, criei uma nova versão da Pexy e da Evil Pexy no Google Gemini! Acredito que a performance delas está ainda melhor que as versões anteriores do ChatGPT. O Gemini não tem os limites de interações que outras plataformas costumam ter, garantindo que você nunca fique na mão. Sinta-se à vontade para usar a versão que preferir, pois o objetivo de ambas é o mesmo: te ajudar a brilhar no PEX!_
 
 ---
-Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 15/08/2025
+Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 02/09/2025
 
 ---
 
