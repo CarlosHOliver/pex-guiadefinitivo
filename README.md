@@ -476,6 +476,29 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 *   **Realizar o projeto sem impacto social claro:** O PEX deve ir além de uma simples atividade acadêmica; ele precisa gerar um benefício real e mensurável para a comunidade ou instituição parceira.
 *   **Copiar projetos de outros alunos:** A originalidade e a autenticidade são fundamentais. Busque inspiração, mas desenvolva um projeto próprio e alinhado com suas habilidades e interesses.
 
+### PEX no local de trabalho e em empresa familiar
+
+Em situações específicas, o PEX pode ser realizado em ambientes com vínculos pessoais ou profissionais. Para evitar conflito de interesses e garantir o foco no impacto social, observe as orientações abaixo.
+
+#### PEX no local de trabalho
+É possível realizar o PEX na empresa onde você trabalha, desde que a atuação não se confunda com suas atividades profissionais rotineiras. A recomendação é executar o projeto em setor diferente daquele em que você atua e fora do seu horário de expediente. Isso preserva a imparcialidade, facilita a comprovação da carga horária e deixa claro que se trata de uma ação extensionista, e não de uma demanda interna do trabalho.
+
+Exemplos de projetos válidos:
+- Oficinas de inclusão digital para a comunidade usando o laboratório de informática da empresa.
+- Criação de um sistema simples (web/app) para gestão de doações, biblioteca comunitária ou cadastro de beneficiários de projetos sociais apoiados pela empresa.
+- Desenvolvimento de um painel de BI/DataViz para monitorar consumo de energia, água e resíduos da empresa, com divulgação em campanhas educativas para a comunidade local.
+
+Reforce a documentação com: termo de autorização do responsável, evidências presenciais (fotos), registros de participação da comunidade e descrição clara do benefício social alcançado. Em caso de dúvidas, valide previamente com o professor/monitoria.
+
+#### PEX em empresa familiar
+Também é permitido realizar o PEX em empresa de familiares, porém não é a opção recomendada. Esse cenário pode levantar questionamentos sobre imparcialidade e foco no interesse coletivo. Para ser válido, o projeto precisa ir além do benefício direto à família e demonstrar impacto social claro, como práticas sustentáveis, inclusão da comunidade ou fortalecimento de serviços de interesse público.
+
+Exemplos de projetos válidos:
+- Programa de coleta seletiva em oficina mecânica da família, em parceria com cooperativas locais.
+- Uso do espaço da empresa familiar para organizar oficinas gratuitas de programação, lógica e robótica educativa para jovens do bairro.
+
+Nesses casos, detalhe no relatório como o público externo foi beneficiado, quem participou, quais resultados foram alcançados e anexe as evidências correspondentes (termo de autorização, fotos, materiais utilizados). Se possível, peça avaliação/feedback do público atendido para reforçar a transparência e a relevância social.
+
 ---
 
 ## 8. Conclusão
