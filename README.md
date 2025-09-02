@@ -514,7 +514,7 @@ Em termos de progressão, pense no fluxo como uma cadeia lógica I → II → II
 
 No PEX V, o relatório final deve evidenciar claramente as etapas e entregáveis previstos nos PEX I–IV. Se você mudou de instituição ao longo do caminho, será necessário recompor as análises essenciais (diagnóstico, objetivos, metodologia, execução e monitoramento) no novo contexto. Em outras palavras, não é viável elaborar o relatório final sem demonstrar, ainda que de forma resumida, o encadeamento das fases anteriores.
 
-**Regra de ouro**: siga sempre o roteiro vigente da disciplina. Se você está no PEX V (relatório), precisa sustentar suas conclusões com o diagnóstico, o planejamento, a execução e o monitoramento construídos ao longo dos PEX anteriores, ainda que tenham sido feitos em organizações diferentes. A avaliação considera não apenas o atendimento aos requisitos do roteiro atual, mas a coerência longitudinal do projeto como um todo.
+**Regra de ouro**: siga sempre o roteiro vigente da disciplina. Se você está no PEX V (relatório), precisa sustentar suas conclusões com o diagnóstico, o planejamento, a execução e o monitoramento construídos ao longo dos PEX anteriores, ainda que tenham sido feitos em organizações diferentes.
 
 ---
 
