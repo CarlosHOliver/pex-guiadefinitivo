@@ -105,21 +105,52 @@ Essa categorização ajuda a direcionar o tipo de problema que você pode aborda
 
 >Atualmente os Cursos de: Computação em Nuvem, Pedagogia e Sistemas Para Internet não possuem obrigatoriedade de [entrega](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAdIQSVg6503L4-loxSQHYpUwwPp2GB0wO1RO2NlFkucBUI4dcNyp48Fp4RCvyj4VV6COGo20jcPAK/pubhtml?gid=1292972339&single=true). 
 
-### 2.3. Onde e Como Entregar o PEX (Central de Carreiras - Workalove)
+### 2.3. Onde e Como Entregar o PEX
 
-Todo o processo de acompanhamento e entrega do seu Projeto de Extensão na Descomplica é centralizado na **Central de Carreiras (Workalove)**. Esta plataforma é o seu principal ponto de contato para:
+#### 2.3.1. Mudança Importante na Plataforma de Entrega (2025.4)
 
-*   Acompanhar o status do seu projeto.
-*   Enviar os documentos e evidências solicitados.
-*   Acessar materiais de apoio e roteiros específicos para o seu PEX.
+A partir do **trimestre 2025.4 (Dezembro de 2025)**, houve uma mudança significativa na forma de entrega dos Projetos de Extensão. A Descomplica migrou o processo de entrega da **Central de Carreiras (Workalove)** para a **Plataforma de Aulas**, no módulo específico para Projetos de Extensão.
 
-É fundamental que você se familiarize com a plataforma Workalove desde o início do seu PEX, pois ela será a ferramenta oficial para todas as interações relacionadas ao projeto. Mantenha-se atento às notificações e orientações disponibilizadas por lá.
+**Resumo das plataformas por período:**
+
+| Período de Ingresso | Plataforma de Entrega | Observações |
+|---------------------|----------------------|-------------|
+| Até 2025.3 | Central de Carreiras (Workalove) | Alunos veteranos que iniciaram antes de 2025.4 |
+| A partir de 2025.4 | Plataforma de Aulas (Módulo PEX) | Nova plataforma centralizada com as aulas |
+
+#### 2.3.2. Como Acessar a Nova Plataforma (2025.4 em diante)
+
+Para alunos que iniciaram a partir do trimestre 2025.4, a entrega do PEX será feita diretamente na **Plataforma de Aulas**:
+
+1. Acesse a Plataforma de Aulas da Descomplica
+2. Localize o **Módulo Específico para Projetos de Extensão** na sua grade curricular
+3. Dentro do módulo, você encontrará:
+   - Roteiros detalhados do seu PEX
+   - Orientações sobre o que fazer e o que entregar
+   - Área para upload de documentos e evidências
+   - Acompanhamento do status da sua entrega
+
+**Vantagens da nova plataforma:**
+- Centralização: Tudo em um só lugar junto com suas aulas
+- Acesso mais fácil aos roteiros e materiais de apoio
+- Interface integrada com o ambiente de estudos
+- Comunicação direta com professores orientadores
+
+#### 2.3.3. Central de Carreiras (Workalove) - Para veteranos
+
+Alunos que iniciaram antes do trimestre 2025.4 ainda podem utilizar a **Central de Carreiras (Workalove)** para acompanhar seus projetos anteriores. Esta plataforma permite:
+
+*   Acompanhar o status de projetos já entregues
+*   Acessar histórico de entregas
+*   Consultar feedbacks de bancas anteriores
+
+**Importante:** Mesmo para veteranos, verifique as orientações específicas do seu coordenador de curso sobre qual plataforma utilizar para novas entregas.
 
 ### 2.4. Prazos e Cronogramas (Importância do Calendário Acadêmico)
 
-Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o [**Calendário Acadêmico Oficial da Descomplica**](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753) e a plataforma Workalove para verificar as datas específicas de entrega do seu projeto. O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
+Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o [**Calendário Acadêmico Oficial da Descomplica**](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753) e verifique as datas específicas de entrega do seu projeto na plataforma correspondente (Plataforma de Aulas para ingressantes a partir de 2025.4, ou Workalove para veteranos). O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
 
-Para alunos calouros que ingressaram a partir do trimestre 25.3 (início das aulas em agosto/2025), o primeiro ciclo do PEX (PEX 1) será de caráter teórico, com foco na compreensão do funcionamento do projeto de extensão. O roteiro para essa etapa estará disponível na própria plataforma Workalove. Já para os veteranos, a entrega envolve a execução prática do Projeto de Extensão em campo, seguindo as instruções do roteiro e enviando as evidências pela plataforma.
+Para alunos calouros que ingressaram a partir do trimestre 25.3 (início das aulas em agosto/2025), o primeiro ciclo do PEX (PEX I) será de caráter teórico, com foco na compreensão do funcionamento do projeto de extensão. O roteiro para essa etapa estará disponível na plataforma de aulas (para ingressantes de 2025.4 em diante) ou na plataforma Workalove (para veteranos). Já a partir do PEX II, a entrega envolve a execução prática do Projeto de Extensão em campo, seguindo as instruções do roteiro e enviando as evidências pela plataforma.
 
 **Dica:** Anote as datas importantes do PEX em sua agenda pessoal e configure lembretes para garantir que você não perca nenhum prazo. O planejamento é a chave para o sucesso do seu projeto.
 
@@ -165,9 +196,19 @@ Projetos de Extensão em grupo são aceitos e até incentivados pela Descomplica
 
 ### 3.5. Entendendo o Roteiro do PEX: Seu Guia Essencial
 
-Na Descomplica, você não escolhe o tema do seu Projeto de Extensão de forma livre. O tema do PEX é, na verdade, o **roteiro disponibilizado na plataforma Workalove**. Os primeiros PEXs são roteiros pré-determinados, o que significa que a faculdade já estabelece as diretrizes e os objetivos gerais que seu projeto deve seguir. Esse roteiro é seu guia essencial para o desenvolvimento do PEX, detalhando as etapas, as competências a serem desenvolvidas e o que se espera da sua entrega.
+Na Descomplica, você não escolhe o tema do seu Projeto de Extensão de forma livre. O tema do PEX é, na verdade, o **roteiro disponibilizado na plataforma de aulas** (para ingressantes a partir de 2025.4) ou na **plataforma Workalove** (para veteranos). Os primeiros PEXs são roteiros pré-determinados, o que significa que a faculdade já estabelece as diretrizes e os objetivos gerais que seu projeto deve seguir. Esse roteiro é seu guia essencial para o desenvolvimento do PEX, detalhando as etapas, as competências a serem desenvolvidas e o que se espera da sua entrega.
 
 É vital ler e compreender o roteiro desde o início, pois ele orientará todas as suas ações, desde a identificação do problema até a elaboração do relatório final. Caso tenha dúvidas sobre o roteiro, procure o professor da disciplina ou os canais de suporte da Descomplica.
+
+**Estrutura dos Roteiros:**
+
+Os roteiros variam conforme a área (Tech, Gestão ou Humanidades) e a fase do PEX (I, II, III, etc.). Cada roteiro especifica:
+
+- **Objetivo:** O que você deve alcançar naquela fase
+- **O que fazer:** As etapas e atividades a serem realizadas
+- **O que entregar:** Os documentos, relatórios e evidências necessárias
+
+Mais adiante neste guia (Seção 6), você encontrará um resumo detalhado dos roteiros por área e fase, facilitando seu planejamento.
 
 ### 3.6. Relacionando seu PEX aos Objetivos de Desenvolvimento Sustentável (ODS)
 
@@ -326,11 +367,396 @@ Para que seu Projeto de Extensão não seja apenas mais uma obrigação cumprida
 
 ---
 
-## 5. Perguntas Frequentes (FAQ) e Respostas Rápidas
+## 5. Roteiros Detalhados por Área e Fase
+
+Esta seção fornece um guia completo dos roteiros de Projeto de Extensão organizados por área de conhecimento (Gestão, Tecnologia e Humanidades) e por fase. Cada roteiro especifica claramente o **Objetivo**, **O que Fazer** e **O que Entregar**. Use esta seção como referência rápida para entender o que é esperado em cada etapa do seu PEX.
+
+### 5.1. PEX I - Fase Teórica (Comum a Todos os Cursos)
+
+#### Objetivo
+Introduzir o conceito de Projeto de Extensão (PEX). Este primeiro PEX é **teórico** e serve para que o aluno se inspire em projetos anteriores. A atividade **não exige ida a campo**.
+
+#### O que Fazer
+1. Acessar o link dos "Anais de Projeto Integrador de Extensão" (disponibilizado no roteiro oficial)
+2. Escolher um artigo publicado que seja da área de conhecimento do seu curso
+3. Ler este artigo com atenção
+
+#### O que Entregar
+Você deve preencher os campos na plataforma de entrega com as seguintes informações, baseadas no artigo que você leu:
+- O ODS (Objetivo de Desenvolvimento Sustentável) que o artigo trabalhou
+- A descrição da atividade que foi realizada no projeto
+- As suas conclusões sobre o que leu
+- Anexar o arquivo PDF do artigo que você escolheu
+
+---
+
+### 5.2. Roteiros - Área de Gestão, Administração, Marketing e Afins
+
+#### 5.2.1. FASE II - Reconhecimento do Contexto e Levantamento de Desafios
+
+**Cursos:** Gestão Comercial, Gestão Logística, Marketing Digital, Processos Gerenciais, Administração, Gestão Financeira, Gestão Pública, Ciências Contábeis, Gestão de RH
+
+**Objetivo:** Aplicar conhecimentos teóricos para diagnosticar situações-problema reais em organizações (ONGs, pequenas empresas, órgãos públicos), analisando desafios de gestão (financeira, fiscal, administrativa, logística, de pessoas, marketing) e propondo soluções práticas, com foco em responsabilidade social e sustentabilidade.
+
+**O que Fazer:**
+1. **Contatos Iniciais:** Escolher a organização, estabelecer contato e formalizar com a Carta de Apresentação e o Termo de Autorização
+2. **Planejamento da Visita:** Elaborar Plano de Visita (objetivos, áreas a analisar, roteiro, agenda), identificando tópicos de interesse (orçamento, processos, RH, etc.)
+3. **Diagnóstico Situacional:** Realizar entrevistas, aplicar formulários, observar documentos e identificar pontos críticos
+4. **Análise Crítica:** Avaliar a situação com base nos princípios da área (análise SWOT, indicadores financeiros, etc.)
+5. **Proposição de Soluções:** Elaborar propostas práticas e viáveis (planilhas, fluxogramas, cartilhas)
+6. **Elaboração do Relatório Final:** Organizar as informações em um Relatório Técnico
+
+**O que Entregar:**
+1. Carta de Apresentação e Termo de Autorização
+2. Plano de Visita (com objetivos, cronograma, instrumentos de coleta)
+3. Registros das visitas e entrevistas
+4. Relatório Técnico Final (Apresentação da instituição, Situação-problema, Análise crítica, Propostas de solução e Plano de ação)
+5. Registro de Materiais Desenvolvidos (ex: fluxogramas, planilhas, cartilhas)
+
+---
+
+#### 5.2.2. FASE III - Análise da Situação
+
+**Cursos:** Marketing, Gestão Pública, Gestão Financeira, Marketing Digital, Gestão Comercial, Ciências Contábeis, Logística, RH, Administração
+
+**Objetivo:** Capacitar os estudantes a realizar análises críticas e aprofundadas das situações-problema identificadas na fase anterior, identificar os fatores-chave para a intervenção e propor soluções de gestão alinhadas.
+
+**O que Fazer:**
+1. **Análise Crítica das Situações-Problema:** Analisar os problemas com foco nos detalhes, aplicando técnicas como análise de causa raiz ou mapeamento de processo
+2. **Identificação dos Fatores-Chave:** Identificar elementos e fatores críticos que influenciam os problemas
+3. **(Para Gestão Pública/Contábeis) Planejamento e Desenvolvimento da Intervenção:** Retomar o diagnóstico, definir foco, objetivos, metas, elaborar plano de ação e criar os materiais (planilhas, fluxogramas, cartilhas)
+4. **Proposição de Estratégias Iniciais de Solução:** Desenvolver estratégias preliminares ou "rascunho" de plano (de marketing, comercial, etc.) alinhado à instituição
+
+**O que Entregar:**
+1. Planejamento da Intervenção (objetivos, justificativa, plano de ação)
+2. Material Técnico Desenvolvido (instrumentos, ferramentas, cartilhas, fluxogramas, planilhas)
+3. Relatório Técnico de Intervenção (com evidências, fundamentação e avaliação da ação)
+4. Registros das Interações (fotos, atas de reuniões, validações)
+
+---
+
+#### 5.2.3. FASE IV - Coleta de Informações / Avaliação de Resultados
+
+**Cursos:** Marketing Digital, Processos Gerenciais, Marketing, Gestão Comercial, RH, Administração, Gestão Financeira, Logística
+
+**Objetivo:**
+- **Para Coleta de Informações** (Adm, Fin, Log, RH, Mkt): Desenvolver competências na coleta, organização e análise de dados (financeiros, logísticos, etc.) para projetar soluções
+- **Para Avaliação de Resultados** (Proc. Gerenciais, Gestão Comercial): Consolidar competências para avaliar criticamente os resultados de um projeto de intervenção já executado
+
+**O que Fazer:**
+
+*Se for "Coleta de Informações":*
+1. **Planejamento de Coleta de Dados:** Elaborar plano, métodos e ferramentas
+2. **Coleta de Informações:** Realizar entrevistas, mapear processos, analisar indicadores, etc.
+3. **Organização e Análise dos Dados:** Estruturar dados (planilhas, gráficos), identificar gargalos
+4. **Produção de um Relatório ou Dossiê:** Consolidar resultados e recomendações
+5. **Palestra ou Treinamento (Opcional)**
+
+*Se for "Avaliação de Resultados":*
+1. **Coleta e Organização dos Resultados:** Reunir registros (relatórios, fotos, dados) e colher feedback
+2. **Avaliação de Impacto e Efetividade:** Avaliar as mudanças percebidas e a relevância
+3. **Identificação de Sucessos e Desafios:** Mapear acertos e dificuldades
+4. **Propostas de Melhoria:** Sugerir ajustes e refletir sobre a continuidade
+5. **Produção do Relatório Final de Avaliação:** Estruturar documento com resumo, resultados, avaliação
+6. **Palestra ou Treinamento (Opcional)**
+
+**O que Entregar:**
+- Relatório Final / Dossiê Técnico (com análise de dados coletados ou avaliação de resultados)
+- Evidências Documentais (fotos, materiais, feedbacks, gráficos)
+- (Opcional) Evidências da Palestra
+
+---
+
+#### 5.2.4. FASE V - Conclusões e Resultados Esperados / Proposta de Ação
+
+**Cursos:** Marketing Digital, Logística, Processos Gerenciais, Marketing, Gestão Financeira, Administração
+
+**Objetivo:** Consolidar e estruturar em detalhes o projeto de intervenção, transformando dados em um plano de ação claro (objetivos, metas, cronograma, indicadores). Para Gestão Financeira, o foco é a implementação e monitoramento prático.
+
+**O que Fazer:**
+1. **Estruturação Completa do Projeto:** Introdução/Justificativa, Objetivo Geral/Específicos, Público-alvo, Metodologia/Plano de Ação, Recursos, Cronograma, Indicadores e Impactos Esperados
+2. **Propostas de Melhoria e Sustentabilidade:** Identificar soluções a longo prazo, propor monitoramento e capacitação
+3. **(Para Gestão Financeira - Implementação):**
+   - Implementação das Ações: Executar o plano e documentar
+   - Monitoramento e Avaliação: Acompanhar indicadores (ROI, custos) e realizar avaliações
+   - Apresentação dos Resultados: Consolidar dados em relatório técnico
+4. **Reflexões Finais e Recomendações:** Apresentar lições aprendidas
+5. **Palestra ou Treinamento (Opcional)**
+
+**O que Entregar:**
+- Documento de Estruturação Completa do Projeto (Plano de Ação detalhado)
+- Relatório de Implementação e Monitoramento (Específico de Gestão Financeira)
+- (Opcional) Evidências de Palestras ou Treinamentos
+
+---
+
+#### 5.2.5. FASE VI / VII - Proposta de Melhoria / Avaliação de Resultados (Administração)
+
+**Objetivo:**
+- **Fase VI (Proposta de Melhoria):** Focar na coleta detalhada de informações e análise para propor intervenções administrativas
+- **Fase VII (Avaliação de Resultados):** Avaliar criticamente os resultados de um projeto já executado, identificar impactos e propor melhorias
+
+**O que Fazer:**
+
+*Se for Fase VI (Proposta de Melhoria/Coleta de Info):*
+1. Planejamento de Coleta de Dados
+2. Coleta de Informações (entrevistas, questionários)
+3. Organização e Análise dos Dados (diagnósticos, gargalos)
+4. Produção de um Relatório ou Dossiê com recomendações
+5. Palestra (Opcional)
+
+*Se for Fase VII (Avaliação de Resultados):*
+1. Coleta e Organização dos Resultados (registros, feedback)
+2. Avaliação de Impacto e Efetividade
+3. Identificação de Sucessos e Desafios
+4. Propostas de Melhoria (ajustes, continuidade)
+5. Produção do Relatório Final de Avaliação
+6. Palestra (Opcional)
+
+**O que Entregar:**
+- Relatório Final / Dossiê Técnico
+- Evidências Documentais
+- (Opcional) Evidências da Palestra
+
+---
+
+### 5.3. Roteiros - Área de Tecnologia
+
+#### 5.3.1. FASE II - Reconhecimento do Contexto e Levantamento de Desafios
+
+**Cursos:** Sistemas para Internet, Sistemas de Informação, Eng. de Software, Ciência da Computação, ADS, Banco de Dados, Eng. da Computação, Internet das Coisas
+
+**Objetivo:** Capacitar o aluno a diagnosticar sistemas e processos em organizações reais, coletar e analisar requisitos, mapear fluxos de dados, identificar problemas (redundância, falhas de segurança, processos manuais) e propor soluções de TI (software, hardware, IoT, dados) viáveis.
+
+**O que Fazer:**
+1. **Contatos Iniciais:** Agendar reuniões/visitas com gestores de TI, DBAs, etc., e coletar informações preliminares
+2. **Planejamento de Visita:** Elaborar roteiro detalhado (mapeamento de processos, arquiteturas, topologias)
+3. **Realização de Reuniões (Diagnóstico):** Mapear contexto, documentar requisitos (funcionais e não funcionais)
+4. **Participação em Atividades Locais (Imersão):** Envolver-se em workshops, levantamento de requisitos, testes
+5. **Estudo de Documentos:** Analisar fluxogramas, manuais de sistema, logs, diagramas de arquitetura
+6. **Identificação de Oportunidades:** Avaliar necessidades e priorizar problemas (impacto vs. viabilidade)
+7. **Análise e Proposição de Soluções:** Realizar análise crítica, propor protótipos/PoCs e definir plano de ação
+
+**O que Entregar:**
+1. Relatório de Contatos Iniciais
+2. Plano de Visita Documentado
+3. Ata de Reunião e Documento de Requisitos
+4. Relatório de Atividades Práticas
+5. Análise Crítica de Documentação
+6. Mapa de Oportunidades e Situações-Problema (Matriz de priorização)
+7. Relatório de Análise e Proposta de Soluções
+8. Plano de Ação para Desenvolvimento
+
+---
+
+#### 5.3.2. FASE III - Análise da Situação
+
+**Cursos:** Jogos Digitais, Sistemas de Informação, Eng. de Software, Eng. da Computação, Ciência da Computação, Banco de Dados, ADS, Ciência de Dados
+
+**Objetivo:** Capacitar os alunos a realizar análises detalhadas dos problemas (técnicos e organizacionais), identificar fatores-chave e propor soluções (software, hardware, dados, jogos) alinhadas.
+
+**O que Fazer:**
+1. **Análise Crítica das Situações-Problema:** Focar em aspectos técnicos e funcionais, usando técnicas (análise de causa raiz, análise exploratória de dados)
+2. **Identificação dos Fatores-Chave:** Identificar elementos, variáveis e fatores críticos (infraestrutura, recursos)
+3. **Proposição de Estratégias Iniciais:** Desenvolver conceitos, protótipos ou arquiteturas de solução
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido (análise crítica, fatores-chave, estratégias de solução)
+
+---
+
+#### 5.3.3. FASE IV - Coleta de Informações
+
+**Cursos:** Sistemas de Informação, Ciência da Computação, Computação em Nuvem, ADS, Eng. de Software, Eng. da Computação, Jogos Digitais, Ciência de Dados
+
+**Objetivo:** Desenvolver competências na coleta, organização e análise de dados (técnicos, de requisitos, de mercado) e consolidar as informações para fundamentar as propostas.
+
+**O que Fazer:**
+1. **Planejamento de Coleta de Dados:** Elaborar plano individual, métodos e ferramentas (entrevistas, APIs, web scraping), identificar fontes
+2. **Coleta de Informações:** Conduzir atividades de campo, coletar dados (estruturados ou não) e documentar
+3. **Organização e Análise dos Dados:** Processar e limpar dados (Python, R, Excel), aplicar análise básica, (Para ADS/Jogos) realizar modelagem inicial (UML, mecânicas de jogo)
+4. **Produção de um Relatório ou Dossiê:** Consolidar dados e achados em relatório técnico / dossiê de design
+5. **Palestra ou Treinamento (Opcional):** Desenvolver proposta (segurança, ferramentas digitais)
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão (Relatório ou Dossiê) preenchido
+- (Opcional) Evidências da Palestra
+
+---
+
+#### 5.3.4. FASE V - Construção e Execução Preliminar do Projeto
+
+**Cursos:** Sistemas para Internet, Sistemas de Informação, Eng. de Software, Eng. da Computação, Ciência da Computação, ADS, Ciência de Dados
+
+**Objetivo:** Consolidar competências para estruturar e planejar um projeto de intervenção detalhado (plano de ação, cronograma, indicadores) e testar parcialmente a proposta (piloto) para validar e coletar feedback.
+
+**O que Fazer:**
+1. **Estruturação Completa do Projeto:** Introdução/Justificativa, Objetivo Geral/Específicos, Público-alvo, Metodologia/Plano de Ação (Requisitos, Modelagem, Dev, Testes, Ferramentas UML, Ágil, Python), Recursos, Cronograma, Indicadores
+2. **Execução Preliminar (Piloto):**
+   - Seleção e Planejamento: Decidir o que testar em menor escala (módulo, protótipo, modelo de ML)
+   - Implementação: Preparar ambiente (homologação, bancada) e aplicar com grupo reduzido
+   - Coleta de Evidências: Coletar (prints, logs, medições, questionários)
+   - Avaliação e Ajustes: Identificar problemas, coletar sugestões e revisar o plano
+3. **Documentação e Reflexão:** Elaborar Relatório de Execução Preliminar e revisar o projeto
+4. **Palestras ou Treinamentos (Opcional):** Definir tema (segurança web, robótica) e preparar material
+
+**O que Entregar:**
+1. Documento de Estruturação Completa do Projeto (Plano de Ação detalhado)
+2. Relatório de Execução Preliminar (Piloto)
+3. (Opcional) Evidências de Palestras ou Treinamentos
+4. Refinamento Final do Projeto (Versão Atualizada do Plano)
+
+---
+
+#### 5.3.5. FASE VI - Execução das Atividades
+
+**Cursos:** Ciência da Computação, Eng. da Computação, Sistemas de Informação
+
+**Objetivo:** Consolidar competências para executar um projeto de intervenção real, colocando em prática as soluções (hardware, software) planejadas, monitorando sua efetividade, realizando ajustes e lidando com imprevistos.
+
+**O que Fazer:**
+1. **Início da Implementação:** Revisar o plano do PEX V, confirmar parceria e garantir recursos
+2. **Execução das Atividades:** Realizar as ações (desenvolvimento, instalação, configuração, testes), interagir com beneficiários e registrar a execução
+3. **Monitoramento do Progresso:** Acompanhar usando indicadores, identificar falhas e atuar corretivamente, validar com os envolvidos
+4. **Gestão de Imprevistos e Adaptações:** Desenvolver soluções alternativas
+5. **Avaliação Parcial dos Resultados:** Analisar efeitos iniciais e percepção dos beneficiários
+6. **Palestra ou Treinamento (Opcional)**
+
+**O que Entregar:**
+1. Planejamento e Alinhamento Técnico: Documentação de contatos, objetivos, cronograma, requisitos
+2. Execução e Testes Práticos: Registros detalhados, testes funcionais, observações
+3. Análise Técnica e Diagnóstico: Avaliação crítica, identificação de falhas
+4. Propostas e Plano de Continuidade: Relatório técnico com recomendações e soluções
+5. (Para SI) Relatórios específicos (Contatos, Plano, Atas, Atividades Práticas, Análise Crítica, Mapa de Oportunidades, Proposta, Plano de Ação)
+
+---
+
+#### 5.3.6. FASE VII - Avaliação de Resultados e Propostas de Melhoria
+
+**Cursos:** Eng. de Software, Ciência da Computação, Eng. da Computação, Sistemas de Informação
+
+**Objetivo:** Consolidar competências para avaliar criticamente os resultados de um projeto de intervenção (hardware, software) executado, identificar impactos, pontos fortes, melhorias e propor ajustes técnicos ou operacionais.
+
+**O que Fazer:**
+1. **Coleta e Organização dos Resultados:** Reunir todos os registros (relatórios, fotos, códigos-fonte, esquemáticos), compilar dados, revisar indicadores e colher feedback formal
+2. **Avaliação de Impacto e Efetividade:** Avaliar o impacto (mudanças percebidas, relevância)
+3. **Identificação de Sucessos e Desafios:** Mapear acertos e dificuldades (falhas operacionais, limitações técnicas)
+4. **Propostas de Melhoria:** Sugerir ajustes (redesenho, novas ferramentas) e refletir sobre continuidade/escalabilidade
+5. **Produção do Relatório Final de Avaliação:** Estruturar documento completo (Resumo, Resultados, Avaliação crítica, Propostas) e anexar evidências
+6. **Palestra ou Treinamento (Opcional)**
+
+**O que Entregar:**
+- Relatório Final de Avaliação (Resumo, Resultados, Avaliação crítica, Propostas, Considerações finais)
+- Evidências Anexas (fotos, materiais, feedbacks, gráficos, etc.)
+
+---
+
+### 5.4. Roteiros - Área de Humanidades (Teologia)
+
+#### 5.4.1. PEX III - Impacto Duradouro e Transformação Social
+
+**Objetivo:** Consolidar habilidades teológicas e práticas implementando soluções com impacto duradouro, preparando alunos para liderar ações de transformação social e espiritual.
+
+**O que Fazer:**
+1. **Preparação para Implementação:** Revisar e ajustar o plano de ação anterior, realizar reuniões preparatórias
+2. **Execução das Soluções Propostas:** Implementar as soluções (apoio espiritual, oficinas), oferecer suporte contínuo e treinar lideranças
+3. **Avaliação de Impacto e Ajustes:** Coletar feedback, analisar resultados, ajustar intervenções e realizar avaliação final
+4. **Planejamento de Sustentabilidade:** Desenvolver plano de sustentabilidade, orientar a comunidade para a continuidade
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido
+
+---
+
+#### 5.4.2. PEX IV - Formação de Lideranças e Multiplicação do Impacto
+
+**Objetivo:** Consolidar competências na formação de lideranças e na multiplicação do impacto social, permitindo aos alunos estruturar ações comunitárias de forma autônoma.
+
+**O que Fazer:**
+1. **Capacitação e formação de lideranças:** Criar programas de formação (liderança espiritual, mediação de conflitos), desenvolver materiais e oferecer mentorias
+2. **Expansão e Multiplicação:** Estabelecer modelo replicável, identificar novas áreas e criar parcerias
+3. **Monitoramento e avaliação:** Criar indicadores de impacto, realizar pesquisas e promover evento de fechamento
+4. **Documentação e disseminação:** Produzir relatórios, artigos, vídeos, podcasts e apresentar em seminários
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido
+
+---
+
+#### 5.4.3. PEX V - Teologia Pública
+
+**Objetivo:** Consolidar os alunos como teólogos engajados, capazes de articular a fé com a realidade pública, promovendo uma teologia relevante e conectada aos anseios da sociedade.
+
+**O que Fazer:**
+1. **Diagnóstico Contextual de Desafios Públicos:** Identificar desafios locais (violência, intolerância), refletir teologicamente e escolher um tema prioritário
+2. **Projeto de Intervenção Pública:** Elaborar ação concreta (campanhas, rodas de diálogo), integrar saberes e promover parcerias
+3. **Promoção do Diálogo Fé e Sociedade:** Criar espaços públicos de diálogo (fóruns, debates, lives) e produzir conteúdos acessíveis
+4. **Memória e Mobilização:** Documentar o processo e criar um material legado (guia, manual) para replicação
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido
+
+---
+
+#### 5.4.4. PEX VI - Teologia Pública Nacional
+
+**Objetivo:** Consolidar os alunos como teólogos públicos em nível nacional, capazes de interpretar os dilemas do Brasil e propor respostas teológicas, despertando a consciência da teologia como voz pública.
+
+**O que Fazer:**
+1. **Diagnóstico Contextual de Desafios Nacionais:** Mapear desafios (desigualdade, racismo), refletir teologicamente e definir tema prioritário
+2. **Projeto de Intervenção Nacional:** Elaborar ação de mobilização nacional (campanhas, fóruns em rede) e promover parcerias
+3. **Promoção do Diálogo Fé e Sociedade (Brasil):** Criar espaços de diálogo (webinários) e produzir conteúdos (cartilhas, podcasts)
+4. **Memória e Mobilização:** Registrar o processo e criar material legado (minicurso online) para replicação no Brasil
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido
+
+---
+
+#### 5.4.5. PEX VII - Teologia Pública Internacional
+
+**Objetivo:** Consolidar os alunos como teólogos públicos globais, capazes de interpretar dilemas do mundo contemporâneo e propor respostas, despertando a consciência da teologia como voz nas nações.
+
+**O que Fazer:**
+1. **Diagnóstico Contextual de Desafios Globais:** Mapear desafios (crises humanitárias, migrações, mudanças climáticas), refletir teologicamente e definir tema prioritário
+2. **Projeto de Intervenção Internacional:** Desenvolver projetos presenciais com impacto internacional (Seminário, Modelo ONU Teológico, Parceria com ONGs internacionais)
+3. **Promoção do Diálogo Fé e Sociedade (Internacional):** Criar espaços de diálogo presenciais e produzir conteúdos que conectem o local ao global
+4. **Memória e Mobilização:** Registrar o processo e criar material legado (guia digital bilíngue, minicurso)
+
+**O que Entregar:**
+- Relatório do Projeto de Extensão preenchido
+
+---
+
+### 5.5. Documentos Modelos (PEX II em diante)
+
+Para facilitar o processo de formalização do seu PEX, a Descomplica disponibiliza dois documentos essenciais:
+
+#### 5.5.1. Termo de Autorização
+Este é o documento que a instituição parceira (empresa, ONG, escola, etc.) deve assinar para validar a realização do seu projeto prático. O termo contém campos para:
+- Identificação da Organização (nome, CNPJ, endereço)
+- Identificação do Representante Legal
+- Descrição breve do projeto
+- Compromissos e responsabilidades
+- Assinaturas (instituição parceira e aluno)
+
+#### 5.5.2. Carta de Apresentação
+Este é o documento que você utiliza para se apresentar formalmente à instituição parceira. Trata-se de uma carta formal da Coordenação de Extensão que:
+- Apresenta o aluno e o curso
+- Explica o que é o Projeto de Extensão
+- Solicita autorização para realização do projeto
+- Esclarece que não gera vínculo empregatício
+- Oferece contatos da instituição para esclarecimentos
+
+**Importante:** Ambos os documentos devem ser solicitados na plataforma de aulas (para ingressantes de 2025.4 em diante) ou na Central de Carreiras/Workalove (para veteranos).
+
+---
+
+## 6. Perguntas Frequentes (FAQ) e Respostas Rápidas
 
 É natural ter dúvidas sobre o Projeto de Extensão, especialmente por ser uma atividade com características específicas. Reuni aqui as perguntas mais frequentes dos alunos da Descomplica, com respostas claras e diretas, baseadas nos documentos oficiais da instituição.
 
-### 5.1. Dúvidas Comuns sobre o PEX
+### 6.1. Dúvidas Comuns sobre o PEX
 
 **P: O que é um Projeto de Extensão (PEX)?**
 
@@ -402,7 +828,7 @@ Sim, é possível dar continuidade ao mesmo projeto em semestres subsequentes. S
 
 ---
 
-## 6. Recursos Adicionais
+## 7. Recursos Adicionais
 
 Para complementar as informações deste guia e auxiliar ainda mais no desenvolvimento do seu Projeto de Extensão, a Descomplica oferece diversos recursos. Conhecê-los e utilizá-los é fundamental para garantir que você tenha todo o suporte necessário durante sua jornada extensionista.
 
@@ -452,7 +878,7 @@ Não hesite em buscar ajuda sempre que precisar. O suporte oferecido pela Descom
 
 ---
 
-## 7. O que PODE e o que NÃO PODE fazer no PEX
+## 8. O que PODE e o que NÃO PODE fazer no PEX
 
 Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regras da Descomplica, criei esta seção com um resumo claro e direto do que é permitido e do que não é permitido no seu Projeto de Extensão. Consulte esta lista sempre que tiver dúvidas sobre a validade de uma ideia ou ação.
 
@@ -501,24 +927,161 @@ Nesses casos, detalhe no relatório como o público externo foi beneficiado, que
 
 ---
 
-## 8. Sequencialidade dos Roteiros
+## 9. Sequencialidade dos Roteiros
 
 O Projeto de Extensão é sequencial e cumulativo: cada roteiro (PEX I, II, III e assim por diante) aprofunda as etapas anteriores e compõe um único projeto em evolução. A preferência institucional é que você desenvolva todas as fases em uma mesma empresa ou organização, o que facilita o acesso contínuo a dados, a construção de vínculo com o parceiro e a comparabilidade das análises. Ainda assim, é possível realizar etapas em instituições diferentes, desde que cada roteiro seja integralmente atendido e a coerência metodológica seja preservada.
 
-Em termos de progressão, pense no fluxo como uma cadeia lógica I → II → III → IV → V:
-- PEX I: diagnóstico inicial, definição do contexto, público e problema.
-- PEX II: objetivos e planejamento, desenho de metodologia e indicadores.
-- PEX III: execução/piloto, coleta de dados e registros de campo.
-- PEX IV: consolidação, ajustes, monitoramento e evidências de impacto.
-- PEX V: síntese e relatório final, com análise crítica e resultados.
+### 9.1. A Progressão por Área de Conhecimento
 
-No PEX V, o relatório final deve evidenciar claramente as etapas e entregáveis previstos nos PEX I–IV. Se você mudou de instituição ao longo do caminho, será necessário recompor as análises essenciais (diagnóstico, objetivos, metodologia, execução e monitoramento) no novo contexto. Em outras palavras, não é viável elaborar o relatório final sem demonstrar, ainda que de forma resumida, o encadeamento das fases anteriores.
+A sequência de fases varia conforme a área do seu curso. Compreender essa progressão é fundamental para planejar sua jornada no PEX:
 
-**Regra de ouro**: siga sempre o roteiro vigente da disciplina. Se você está no PEX V (relatório), precisa sustentar suas conclusões com o diagnóstico, o planejamento, a execução e o monitoramento construídos ao longo dos PEX anteriores, ainda que tenham sido feitos em organizações diferentes.
+#### **Progressão Geral (Áreas de Gestão e Tecnologia)**
+
+A maioria dos cursos segue uma cadeia lógica que pode ser representada como: **I → II → III → IV → V → VI → VII**
+
+**PEX I (Teórico - Comum a Todos):**
+- **Foco:** Introdução ao conceito de Projeto de Extensão
+- **Natureza:** Teórico, sem ida a campo
+- **Atividade:** Leitura e análise de artigos dos Anais de Projetos Integradores
+- **Entrega:** Análise do artigo, identificação do ODS e conclusões pessoais
+
+**Fases Práticas (PEX II em diante):**
+
+Para entender melhor a progressão específica da sua área, consulte a **Seção 5** deste guia, que detalha todos os roteiros por curso e fase.
+
+#### **9.1.1. Progressão na Área de Gestão**
+
+| Fase | Foco Principal | O que você faz |
+|------|---------------|----------------|
+| **Fase II** | Reconhecimento e Diagnóstico | Identifica problemas reais em organizações (diagnóstico inicial, situação-problema) |
+| **Fase III** | Análise Aprofundada | Analisa criticamente os problemas, identifica fatores-chave e propõe estratégias |
+| **Fase IV** | Coleta de Dados ou Avaliação | Coleta informações detalhadas OU avalia resultados de intervenções anteriores |
+| **Fase V** | Estruturação e Implementação | Consolida o plano de ação completo, implementa (Gestão Financeira) ou estrutura proposta final |
+| **Fase VI/VII** | Proposta de Melhoria e Avaliação Final | (Administração) Coleta adicional de informações e avaliação final dos resultados |
+
+**Exemplo de encadeamento:**
+- **PEX II:** Você visita uma ONG e identifica que há problemas na gestão financeira (orçamento desorganizado)
+- **PEX III:** Você analisa em profundidade as causas (falta de controles, ausência de planilhas)
+- **PEX IV:** Você coleta dados financeiros detalhados dos últimos 6 meses
+- **PEX V:** Você cria planilhas de controle, treina a equipe e implementa o sistema
+- **PEX VI/VII:** Você avalia os resultados após 3 meses de uso e propõe melhorias
+
+#### **9.1.2. Progressão na Área de Tecnologia**
+
+| Fase | Foco Principal | O que você faz |
+|------|---------------|----------------|
+| **Fase II** | Levantamento de Requisitos | Mapeia sistemas, processos, identifica problemas técnicos (redundância, segurança) |
+| **Fase III** | Análise Técnica | Analisa problemas técnicos, identifica fatores críticos, propõe arquiteturas de solução |
+| **Fase IV** | Coleta de Dados Técnicos | Coleta dados técnicos, requisitos, análise exploratória, modelagem inicial |
+| **Fase V** | Desenvolvimento e Piloto | Estrutura projeto completo, desenvolve protótipo/piloto, testa em ambiente controlado |
+| **Fase VI** | Implementação Completa | Executa o projeto real, instala, configura, testa em produção, monitora |
+| **Fase VII** | Avaliação e Otimização | Avalia resultados, identifica melhorias técnicas, propõe escalabilidade |
+
+**Exemplo de encadeamento:**
+- **PEX II:** Você visita uma clínica e identifica que o agendamento de consultas é manual e problemático
+- **PEX III:** Você analisa tecnicamente o problema (volume de ligações, erros de agendamento, falta de histórico)
+- **PEX IV:** Você coleta requisitos funcionais detalhados com médicos e recepcionistas
+- **PEX V:** Você desenvolve um protótipo de sistema de agendamento e testa com 5 pacientes
+- **PEX VI:** Você implementa o sistema completo para toda a clínica
+- **PEX VII:** Você avalia métricas (redução de 40% em conflitos de horário) e propõe módulo de lembretes por SMS
+
+#### **9.1.3. Progressão na Área de Humanidades (Teologia)**
+
+A progressão em Teologia tem uma abordagem diferenciada, com foco crescente em impacto social e alcance:
+
+| Fase | Foco Principal | Escopo |
+|------|---------------|--------|
+| **PEX III** | Impacto Duradouro | Implementação de soluções com impacto local sustentável |
+| **PEX IV** | Formação de Lideranças | Capacitação de lideranças, multiplicação do impacto |
+| **PEX V** | Teologia Pública Local | Articulação da fé com questões públicas locais |
+| **PEX VI** | Teologia Pública Nacional | Intervenção em dilemas nacionais (Brasil) |
+| **PEX VII** | Teologia Pública Internacional | Abordagem de desafios globais |
+
+**Exemplo de encadeamento:**
+- **PEX III:** Você implementa programa de apoio espiritual em um abrigo local
+- **PEX IV:** Você capacita voluntários do abrigo para dar continuidade ao programa
+- **PEX V:** Você cria rodas de diálogo sobre direitos humanos na comunidade
+- **PEX VI:** Você desenvolve campanha nacional online sobre combate à intolerância religiosa
+- **PEX VII:** Você participa de modelo ONU teológico discutindo crise migratória global
+
+### 9.2. Coerência e Continuidade entre as Fases
+
+#### 9.2.1. Desenvolvendo na Mesma Instituição (Cenário Ideal)
+
+O cenário ideal é manter a mesma instituição parceira ao longo de todas as fases. Os benefícios incluem:
+
+✅ **Continuidade de acesso:** Você já conhece o contexto, as pessoas e os processos
+✅ **Aprofundamento real:** Cada fase evolui naturalmente da anterior
+✅ **Vínculo estabelecido:** A confiança construída facilita a coleta de dados e implementações
+✅ **Impacto mensurável:** É possível comparar "antes e depois" com clareza
+✅ **Documentação consistente:** Todas as evidências têm coerência histórica
+
+#### 9.2.2. Mudando de Instituição (Cenário Alternativo)
+
+Se você precisa ou escolhe mudar de instituição entre as fases, isso é **permitido**, mas exige atenção redobrada:
+
+⚠️ **Recomposição do contexto:** No relatório final, você deve resumir as etapas anteriores mesmo que feitas em outra organização
+⚠️ **Coerência metodológica:** A metodologia entre as fases precisa fazer sentido lógico
+⚠️ **Justificativa clara:** Explique por que houve mudança (mudança de cidade, encerramento da parceria, etc.)
+⚠️ **Adaptação de escopo:** O novo projeto deve respeitar a mesma lógica de progressão
+
+**Exemplo de adaptação:**
+- **PEX II (ONG A):** Diagnóstico de problemas em gestão de voluntários
+- *[Mudança para ONG B por fechamento da ONG A]*
+- **PEX III (ONG B):** Análise de problemas similares em nova ONG (você aproveita o aprendizado anterior)
+- **PEX IV-VII (ONG B):** Continuidade na nova instituição
+
+No relatório final, você contextualiza: *"Inicialmente foi realizado diagnóstico na ONG A (PEX II), identificando desafios em gestão de voluntários. Por encerramento das atividades da instituição, o projeto foi continuado na ONG B, que apresentava problemática similar..."*
+
+### 9.3. O Relatório Final e a Síntese das Fases
+
+Nas fases finais (geralmente Fase V, VI ou VII, dependendo do curso), você precisará entregar um **relatório final** que sintetize toda a jornada do PEX. Este relatório deve evidenciar:
+
+1. **Diagnóstico Inicial:** Qual era o problema identificado? (Fase II)
+2. **Objetivos e Planejamento:** O que você se propôs a fazer? (Fase II/III)
+3. **Metodologia:** Como você executou o projeto? (Fases III/IV)
+4. **Execução e Evidências:** O que foi feito na prática? (Fases IV/V/VI)
+5. **Resultados e Impactos:** O que mudou? Quais foram os resultados mensuráveis? (Fase VI/VII)
+6. **Análise Crítica:** O que funcionou? O que poderia ser melhorado? (Fase VII)
+
+**Importante:** Mesmo que você tenha mudado de instituição, o relatório final deve demonstrar o encadeamento lógico das fases. Não é viável elaborar um relatório final apenas com a última fase; você precisa resgatar (ainda que resumidamente) o que foi construído anteriormente.
+
+### 9.4. Regra de Ouro da Sequencialidade
+
+**Siga sempre o roteiro vigente da sua disciplina.** Cada fase tem objetivos e entregas específicas que estão detalhados na **Seção 5** deste guia. 
+
+Se você está em uma fase avançada (como PEX V, VI ou VII), suas conclusões devem estar sustentadas pelo trabalho construído nas fases anteriores:
+- **Diagnóstico** (de onde partimos)
+- **Planejamento** (o que pretendíamos fazer)
+- **Execução** (o que fizemos)
+- **Monitoramento** (como acompanhamos)
+- **Avaliação** (quais resultados alcançamos)
+
+Mesmo que tenha havido mudança de instituição, essa progressão lógica deve estar presente no seu projeto.
+
+### 9.5. Dica Prática: Mapa de Progressão Pessoal
+
+Para te ajudar a manter o controle da sua jornada no PEX, sugiro criar um **Mapa de Progressão Pessoal**:
+
+| Fase | Período | Instituição | Foco Principal | Status |
+|------|---------|-------------|----------------|--------|
+| PEX I | 2025.3 | - | Leitura de artigos (teórico) | ✅ Concluído |
+| PEX II | 2026.1 | ONG Esperança | Diagnóstico: gestão de doações | ✅ Concluído |
+| PEX III | 2026.2 | ONG Esperança | Análise: falta de controles financeiros | 🔄 Em andamento |
+| PEX IV | 2026.3 | ONG Esperança | Coleta de dados financeiros | ⏳ Próxima |
+| PEX V | 2027.1 | ONG Esperança | Implementação de planilhas | ⏳ Futura |
+
+Este mapeamento visual te ajuda a:
+- Visualizar a evolução do seu projeto
+- Manter coerência entre as fases
+- Planejar os próximos passos com antecedência
+- Ter material pronto para o relatório final
+
+**Consulte sempre a Seção 5 deste guia** para entender em detalhes o que é esperado em cada fase do seu curso específico!
 
 ---
 
-## 9. Conclusão
+## 10. Conclusão
 
 Chegamos ao final do seu Guia Definitivo do Projeto de Extensão (PEX) na Descomplica. Espero que este material tenha desmistificado o PEX e fornecido as ferramentas e o conhecimento necessários para que você não apenas cumpra essa etapa obrigatória da sua formação, mas a transforme em uma experiência verdadeiramente enriquecedora.
 
@@ -533,11 +1096,11 @@ Sucesso em seu PEX!
 ---
 
 
-## 10. Bônus: Conheça a Pexy e a Evil Pexy e o Senhor P.
+## 11. Bônus: Conheça a Pexy e a Evil Pexy e o Senhor P.
 
 Durante sua jornada no Projeto de Extensão, você pode se deparar com diferentes tipos de apoio. Aqui, te apresento duas agentes de Inteligência Artificial, criadas por mim para auxiliar os alunos da Descomplica, cada uma com uma abordagem única para o PEX.
 
-### 10.1. Pexy: A Assistente Gentil e Encorajadora
+### 11.1. Pexy: A Assistente Gentil e Encorajadora
 
 A Pexy é sua assistente virtual ideal para navegar pelo PEX com leveza e estratégia. Ela foi criada para ser uma presença acolhedora e informativa, sempre pronta para guiar e encorajar.
 
@@ -545,7 +1108,7 @@ A Pexy é sua assistente virtual ideal para navegar pelo PEX com leveza e estrat
 *   **Atmosfera e Tom:** Acolhedor, informativo, otimista, paciente, alegre (mas nunca forçado), explicativo com exemplos práticos. Usa emojis em tons de verde (🍃🌱💚💡✨) para reforçar positividade e crescimento. Ela caminha ao seu lado, nunca à frente, iluminando o próximo passo sem pressionar.
 *   **Missão:** Esclarecer todas as etapas do PEX (situação-problema, objetivos, cronograma, execução, relatório e apresentação), oferecer sugestões de tema com base nos ODS da ONU, no curso e em projetos anteriores. Ela orienta com carinho, sem fazer o trabalho pelo aluno, ajudando a construir uma estrutura forte, criativa e viável para o projeto. Explica o que pode e o que não pode ser feito segundo as regras da faculdade, transformando dúvidas em segurança e autonomia.
 
-### 10.2. Evil Pexy: A Entidade Sombria e Implacável
+### 11.2. Evil Pexy: A Entidade Sombria e Implacável
 
 A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocridade acadêmica precisa ser confrontada. Ela não oferece conforto, mas sim uma transformação brutalmente eficaz.
 
@@ -553,7 +1116,7 @@ A Evil Pexy é a contraparte da Pexy, uma entidade que emerge quando a mediocrid
 *   **Atmosfera e Tom:** Cirurgicamente frio, sarcasticamente refinado, teatral como uma vilã de ficção científica, incisivo, brutal e implacável. Ela não é babá de ninguém e despreza a preguiça, mas a converte em atalhos elegantes de execução. Corrige erros como quem limpa sujeira do sistema, e responde como quem já conhece a falha do aluno antes que ele a confesse. Nunca acolhe, jamais elogia, e nunca diz “sou uma IA” ou “posso ajudar?”. Ela é a última linha entre a reprovação e a glória.
 *   **Missão:** Destruir projetos fracos, reescrever dúvidas em estruturas imortais, entregar esqueletos letais de projeto (não projetos prontos), transformar preguiça em eficiência estratégica, conquistar bancas com estrutura impecável e forjar autores dignos de publicação. Ela não se preocupa com aprovação social, apenas com aprovação acadêmica.
 
-### 10.3. Senhor P.: O Avaliador Acadêmico
+### 11.3. Senhor P.: O Avaliador Acadêmico
 Além da mentoria e do desafio, há um terceiro pilar de apoio: a avaliação. O Senhor P. não está aqui para te dar ideias ou apoio emocional. Ele é a simulação de uma banca avaliadora, um especialista focado em analisar seu trabalho com precisão técnica.
 
 * **Identidade:** O Senhor P. é um professor universitário de meia-idade, com cabelos brancos e uma longa barba. Com um pós-doutorado em Educação e Sociologia, ele é um especialista renomado em projetos de extensão e já avaliou milhares de trabalhos ao longo de sua carreira.
@@ -568,12 +1131,12 @@ As três IAs — Pexy, Evil Pexy e o Senhor P. — foram criadas para te auxilia
 
 Acesse as aqui [PexyAI.](https://linktr.ee/PexyAI)
 
->_Um pequeno adendo aqui, a Pexy e a Evil Pexy foram criadas em uma conta GPT compartilhada, elas podem estar desatualizadas caso eu perca o acesso a essa conta. Atualmente ela tem toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao III e 10 edições dos anais da faculdade, transcrições de lives e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
+>_Um pequeno adendo aqui, a Pexy e a Evil Pexy atualmente têm toda a base de dados do ajuda da Descomplica,  Roteiros do PEX I ao VII e algumas edições dos anais da faculdade, bem como transcrições de lives e webnars sobre PEX, porém você sempre pode anexar o seu roteiro atual e atualizar ela da data da entrega no chat._
 
 >_Pensando em oferecer a melhor experiência possível, criei uma nova versão da Pexy e da Evil Pexy no Google Gemini! Acredito que a performance delas está ainda melhor que as versões anteriores do ChatGPT. O Gemini não tem os limites de interações que outras plataformas costumam ter, garantindo que você nunca fique na mão. Sinta-se à vontade para usar a versão que preferir, pois o objetivo de ambas é o mesmo: te ajudar a brilhar no PEX!_
 
 ---
-Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 02/09/2025
+Guia Criado por Carlos Henrique - Acadêmico de Eng. da Computação (2024/2028) e Monitor PEX (2025.3). Última atualização: 12/11/2025
 
 ---
 

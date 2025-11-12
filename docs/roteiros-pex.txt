@@ -1,0 +1,231 @@
+﻿ARQUIVO CONSOLIDADO DE ROTEIROS PEX
+Este arquivo contém o resumo essencial de todos os Projetos de Extensão (PEX) para ser usado como base de conhecimento, focado em Objetivo, O que Fazer e O que Entregar.
+PEX I (TEÓRICO - COMUM A TODOS OS CURSOS)
+* OBJETIVO: Introduzir o conceito de Projeto de Extensão (PEX). Este primeiro PEX é teórico e serve para que o aluno se inspire em projetos anteriores. A atividade não exige ida a campo.
+* O QUE FAZER:
+   1. Acessar o link dos "Anais de Projeto Integrador de Extensão" (disponibilizado no roteiro oficial).
+   2. Escolher um artigo publicado que seja da área de conhecimento do seu curso.
+   3. Ler este artigo com atenção.
+* O QUE ENTREGAR: Você deve preencher os campos na plataforma de entrega com as seguintes informações, baseadas no artigo que você leu:
+   * O ODS (Objetivo de Desenvolvimento Sustentável) que o artigo trabalhou.
+   * A descrição da atividade que foi realizada no projeto.
+   * As suas conclusões sobre o que leu.
+   * Anexar o arquivo PDF do artigo que você escolheu.
+MODELOS DE DOCUMENTOS (PEX II em diante)
+* TERMO DE AUTORIZAÇÃO: Este é o documento que a instituição parceira (empresa, ONG, escola, etc.) deve assinar para validar a realização do seu projeto prático. (Contém campos para Organização, CNPJ, Endereço, Representante, descrição do projeto, compromissos e assinaturas).
+* CARTA DE APRESENTAÇÃO: Este é o documento que você utiliza para se apresentar formalmente à instituição parceira. (Carta formal da Coordenação de Extensão apresentando o aluno e solicitando autorização para o projeto, esclarecendo que não gera vínculo empregatício).
+ROTEIROS - GESTÃO, ADMINISTRAÇÃO, MARKETING E AFINS
+FASE II - RECONHECIMENTO DO CONTEXTO E LEVANTAMENTO DE DESAFIOS
+(Cursos: Gestão Comercial, Gestão Logística, Marketing Digital, Processos Gerenciais, Administração, Gestão Financeira, Gestão Pública, Ciências Contábeis, Gestão de RH)
+* OBJETIVO: Aplicar conhecimentos teóricos para diagnosticar situações-problema reais em organizações (ONGs, pequenas empresas, órgãos públicos), analisando desafios de gestão (financeira, fiscal, administrativa, logística, de pessoas, marketing) e propondo soluções práticas, com foco em responsabilidade social e sustentabilidade.
+* O QUE FAZER:
+   1. Contatos Iniciais: Escolher a organização, estabelecer contato e formalizar com a Carta de Apresentação e o Termo de Autorização.
+   2. Planejamento da Visita: Elaborar Plano de Visita (objetivos, áreas a analisar, roteiro, agenda), identificando tópicos de interesse (orçamento, processos, RH, etc.).
+   3. Diagnóstico Situacional: Realizar entrevistas, aplicar formulários, observar documentos e identificar pontos críticos.
+   4. Análise Crítica: Avaliar a situação com base nos princípios da área (análise SWOT, indicadores financeiros, etc.).
+   5. Proposição de Soluções: Elaborar propostas práticas e viáveis (planilhas, fluxogramas, cartilhas).
+   6. Elaboração do Relatório Final: Organizar as informações em um Relatório Técnico.
+* O QUE ENTREGAR:
+   1. Carta de Apresentação e Termo de Autorização.
+   2. Plano de Visita (com objetivos, cronograma, instrumentos de coleta).
+   3. Registros das visitas e entrevistas.
+   4. Relatório Técnico Final (Apresentação da instituição, Situação-problema, Análise crítica, Propostas de solução e Plano de ação).
+   5. Registro de Materiais Desenvolvidos (ex: fluxogramas, planilhas, cartilhas).
+FASE III - ANÁLISE DA SITUAÇÃO
+(Cursos: Marketing, Gestão Pública, Gestão Financeira, Marketing Digital, Gestão Comercial, Ciências Contábeis, Logística, RH, Administração)
+* OBJETIVO: Capacitar os estudantes a realizar análises críticas e aprofundadas das situações-problema identificadas na fase anterior, identificar os fatores-chave para a intervenção e propor soluções de gestão alinhadas.
+* O QUE FAZER:
+   1. Análise Crítica das Situações-Problema: Analisar os problemas com foco nos detalhes, aplicando técnicas como análise de causa raiz ou mapeamento de processo.
+   2. Identificação dos Fatores-Chave: Identificar elementos e fatores críticos que influenciam os problemas.
+   3. (Para Gestão Pública/Contábeis) Planejamento e Desenvolvimento da Intervenção: Retomar o diagnóstico, definir foco, objetivos, metas, elaborar plano de ação e criar os materiais (planilhas, fluxogramas, cartilhas).
+   4. Proposição de Estratégias Iniciais de Solução: Desenvolver estratégias preliminares ou "rascunho" de plano (de marketing, comercial, etc.) alinhado à instituição.
+* O QUE ENTREGAR:
+   1. Planejamento da Intervenção (objetivos, justificativa, plano de ação).
+   2. Material Técnico Desenvolvido (instrumentos, ferramentas, cartilhas, fluxogramas, planilhas).
+   3. Relatório Técnico de Intervenção (com evidências, fundamentação e avaliação da ação).
+   4. Registros das Interações (fotos, atas de reuniões, validações).
+FASE IV - COLETA DE INFORMAÇÕES / AVALIAÇÃO DE RESULTADOS
+(Cursos: Marketing Digital, Processos Gerenciais, Marketing, Gestão Comercial, RH, Administração, Gestão Financeira, Logística)
+* OBJETIVO:
+   * Para Coleta de Informações (Adm, Fin, Log, RH, Mkt): Desenvolver competências na coleta, organização e análise de dados (financeiros, logísticos, etc.) para projetar soluções.
+   * Para Avaliação de Resultados (Proc. Gerenciais, Gestão Comercial): Consolidar competências para avaliar criticamente os resultados de um projeto de intervenção já executado.
+* O QUE FAZER:
+   * Se for "Coleta de Informações":
+      1. Planejamento de Coleta de Dados: Elaborar plano, métodos e ferramentas.
+      2. Coleta de Informações: Realizar entrevistas, mapear processos, analisar indicadores, etc.
+      3. Organização e Análise dos Dados: Estruturar dados (planilhas, gráficos), identificar gargalos.
+      4. Produção de um Relatório ou Dossiê: Consolidar resultados e recomendações.
+      5. Palestra ou Treinamento (Opcional).
+   * Se for "Avaliação de Resultados":
+      1. Coleta e Organização dos Resultados: Reunir registros (relatórios, fotos, dados) e colher feedback.
+      2. Avaliação de Impacto e Efetividade: Avaliar as mudanças percebidas e a relevância.
+      3. Identificação de Sucessos e Desafios: Mapear acertos e dificuldades.
+      4. Propostas de Melhoria: Sugerir ajustes e refletir sobre a continuidade.
+      5. Produção do Relatório Final de Avaliação: Estruturar documento com resumo, resultados, avaliação.
+      6. Palestra ou Treinamento (Opcional).
+* O QUE ENTREGAR:
+   * Relatório Final / Dossiê Técnico (com análise de dados coletados ou avaliação de resultados).
+   * Evidências Documentais (fotos, materiais, feedbacks, gráficos). (Opcional) Evidências da Palestra.
+FASE V - CONCLUSÕES E RESULTADOS ESPERADOS / PROPOSTA DE AÇÃO
+(Cursos: Marketing Digital, Logística, Processos Gerenciais, Marketing, Gestão Financeira, Administração)
+* OBJETIVO: Consolidar e estruturar em detalhes o projeto de intervenção, transformando dados em um plano de ação claro (objetivos, metas, cronograma, indicadores). Para Gestão Financeira, o foco é a implementação e monitoramento prático.
+* O QUE FAZER:
+   1. Estruturação Completa do Projeto: Introdução/Justificativa, Objetivo Geral/Específicos, Público-alvo, Metodologia/Plano de Ação, Recursos, Cronograma, Indicadores e Impactos Esperados.
+   2. Propostas de Melhoria e Sustentabilidade: Identificar soluções a longo prazo, propor monitoramento e capacitação.
+   3. (Para Gestão Financeira - Implementação):
+      * Implementação das Ações: Executar o plano e documentar.
+      * Monitoramento e Avaliação: Acompanhar indicadores (ROI, custos) e realizar avaliações.
+      * Apresentação dos Resultados: Consolidar dados em relatório técnico.
+   4. Reflexões Finais e Recomendações: Apresentar lições aprendidas.
+   5. Palestra ou Treinamento (Opcional).
+* O QUE ENTREGAR:
+   * Documento de Estruturação Completa do Projeto (Plano de Ação detalhado).
+   * Relatório de Implementação e Monitoramento (Específico de Gestão Financeira).
+   * (Opcional) Evidências de Palestras ou Treinamentos.
+FASE VI / VII - PROPOSTA DE MELHORIA / AVALIAÇÃO DE RESULTADOS (Administração)
+* OBJETIVO:
+   * Fase VI (Proposta de Melhoria): Focar na coleta detalhada de informações e análise para propor intervenções administrativas.
+   * Fase VII (Avaliação de Resultados): Avaliar criticamente os resultados de um projeto já executado, identificar impactos e propor melhorias.
+* O QUE FAZER:
+   * Se for Fase VI (Proposta de Melhoria/Coleta de Info):
+      1. Planejamento de Coleta de Dados.
+      2. Coleta de Informações (entrevistas, questionários).
+      3. Organização e Análise dos Dados (diagnósticos, gargalos).
+      4. Produção de um Relatório ou Dossiê com recomendações.
+      5. Palestra (Opcional).
+   * Se for Fase VII (Avaliação de Resultados):
+      1. Coleta e Organização dos Resultados (registros, feedback).
+      2. Avaliação de Impacto e Efetividade.
+      3. Identificação de Sucessos e Desafios.
+      4. Propostas de Melhoria (ajustes, continuidade).
+      5. Produção do Relatório Final de Avaliação.
+      6. Palestra (Opcional).
+* O QUE ENTREGAR:
+   * Relatório Final / Dossiê Técnico.
+   * Evidências Documentais. (Opcional) Evidências da Palestra.
+ROTEIROS - TEOLOGIA
+PEX III - IMPACTO DURADOURO E TRANSFORMAÇÃO SOCIAL
+* OBJETIVO: Consolidar habilidades teológicas e práticas implementando soluções com impacto duradouro, preparando alunos para liderar ações de transformação social e espiritual.
+* O QUE FAZER:
+   1. Preparação para Implementação: Revisar e ajustar o plano de ação anterior, realizar reuniões preparatórias.
+   2. Execução das Soluções Propostas: Implementar as soluções (apoio espiritual, oficinas), oferecer suporte contínuo e treinar lideranças.
+   3. Avaliação de Impacto e Ajustes: Coletar feedback, analisar resultados, ajustar intervenções e realizar avaliação final.
+   4. Planejamento de Sustentabilidade: Desenvolver plano de sustentabilidade, orientar a comunidade para a continuidade.
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido.
+PEX IV - FORMAÇÃO DE LIDERANÇAS E MULTIPLICAÇÃO DO IMPACTO
+* OBJETIVO: Consolidar competências na formação de lideranças e na multiplicação do impacto social, permitindo aos alunos estruturar ações comunitárias de forma autônoma.
+* O QUE FAZER:
+   1. Capacitação e formação de lideranças: Criar programas de formação (liderança espiritual, mediação de conflitos), desenvolver materiais e oferecer mentorias.
+   2. Expansão e Multiplicação: Estabelecer modelo replicável, identificar novas áreas e criar parcerias.
+   3. Monitoramento e avaliação: Criar indicadores de impacto, realizar pesquisas e promover evento de fechamento.
+   4. Documentação e disseminação: Produzir relatórios, artigos, vídeos, podcasts e apresentar em seminários.
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido.
+PEX V - TEOLOGIA PÚBLICA
+* OBJETIVO: Consolidar os alunos como teólogos engajados, capazes de articular a fé com a realidade pública, promovendo uma teologia relevante e conectada aos anseios da sociedade.
+* O QUE FAZER:
+   1. Diagnóstico Contextual de Desafios Públicos: Identificar desafios locais (violência, intolerância), refletir teologicamente e escolher um tema prioritário.
+   2. Projeto de Intervenção Pública: Elaborar ação concreta (campanhas, rodas de diálogo), integrar saberes e promover parcerias.
+   3. Promoção do Diálogo Fé e Sociedade: Criar espaços públicos de diálogo (fóruns, debates, lives) e produzir conteúdos acessíveis.
+   4. Memória e Mobilização: Documentar o processo e criar um material legado (guia, manual) para replicação.
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido.
+PEX VI - TEOLOGIA PÚBLICA NACIONAL
+* OBJETIVO: Consolidar os alunos como teólogos públicos em nível nacional, capazes de interpretar os dilemas do Brasil e propor respostas teológicas, despertando a consciência da teologia como voz pública.
+* O QUE FAZER:
+   1. Diagnóstico Contextual de Desafios Nacionais: Mapear desafios (desigualdade, racismo), refletir teologicamente e definir tema prioritário.
+   2. Projeto de Intervenção Nacional: Elaborar ação de mobilização nacional (campanhas, fóruns em rede) e promover parcerias.
+   3. Promoção do Diálogo Fé e Sociedade (Brasil): Criar espaços de diálogo (webinários) e produzir conteúdos (cartilhas, podcasts).
+   4. Memória e Mobilização: Registrar o processo e criar material legado (minicurso online) para replicação no Brasil.
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido.
+PEX VII - TEOLOGIA PÚBLICA INTERNACIONAL
+* OBJETIVO: Consolidar os alunos como teólogos públicos globais, capazes de interpretar dilemas do mundo contemporâneo e propor respostas, despertando a consciência da teologia como voz nas nações.
+* O QUE FAZER:
+   1. Diagnóstico Contextual de Desafios Globais: Mapear desafios (crises humanitárias, migrações, mudanças climáticas), refletir teologicamente e definir tema prioritário.
+   2. Projeto de Intervenção Internacional: Desenvolver projetos presenciais com impacto internacional (Seminário, Modelo ONU Teológico, Parceria com ONGs internacionais).
+   3. Promoção do Diálogo Fé e Sociedade (Internacional): Criar espaços de diálogo presenciais e produzir conteúdos que conectem o local ao global.
+   4. Memória e Mobilização: Registrar o processo e criar material legado (guia digital bilíngue, minicurso).
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido.
+ROTEIROS - TECNOLOGIA
+FASE II - RECONHECIMENTO DO CONTEXTO E LEVANTAMENTO DE DESAFIOS
+(Cursos: Sistemas para Internet, Sistemas de Informação, Eng. de Software, Ciência da Computação, ADS, Banco de Dados, Eng. da Computação, Internet das Coisas)
+* OBJETIVO: Capacitar o aluno a diagnosticar sistemas e processos em organizações reais, coletar e analisar requisitos, mapear fluxos de dados, identificar problemas (redundância, falhas de segurança, processos manuais) e propor soluções de TI (software, hardware, IoT, dados) viáveis.
+* O QUE FAZER:
+   1. Contatos Iniciais: Agendar reuniões/visitas com gestores de TI, DBAs, etc., e coletar informações preliminares.
+   2. Planejamento de Visita: Elaborar roteiro detalhado (mapeamento de processos, arquiteturas, topologias).
+   3. Realização de Reuniões (Diagnóstico): Mapear contexto, documentar requisitos (funcionais e não funcionais).
+   4. Participação em Atividades Locais (Imersão): Envolver-se em workshops, levantamento de requisitos, testes.
+   5. Estudo de Documentos: Analisar fluxogramas, manuais de sistema, logs, diagramas de arquitetura.
+   6. Identificação de Oportunidades: Avaliar necessidades e priorizar problemas (impacto vs. viabilidade).
+   7. Análise e Proposição de Soluções: Realizar análise crítica, propor protótipos/PoCs e definir plano de ação.
+* O QUE ENTREGAR:
+   1. Relatório de Contatos Iniciais.
+   2. Plano de Visita Documentado.
+   3. Ata de Reunião e Documento de Requisitos.
+   4. Relatório de Atividades Práticas.
+   5. Análise Crítica de Documentação.
+   6. Mapa de Oportunidades e Situações-Problema (Matriz de priorização).
+   7. Relatório de Análise e Proposta de Soluções.
+   8. Plano de Ação para Desenvolvimento.
+FASE III - ANÁLISE DA SITUAÇÃO
+(Cursos: Jogos Digitais, Sistemas de Informação, Eng. de Software, Eng. da Computação, Ciência da Computação, Banco de Dados, ADS, Ciência de Dados)
+* OBJETIVO: Capacitar os alunos a realizar análises detalhadas dos problemas (técnicos e organizacionais), identificar fatores-chave e propor soluções (software, hardware, dados, jogos) alinhadas.
+* O QUE FAZER:
+   1. Análise Crítica das Situações-Problema: Focar em aspectos técnicos e funcionais, usando técnicas (análise de causa raiz, análise exploratória de dados).
+   2. Identificação dos Fatores-Chave: Identificar elementos, variáveis e fatores críticos (infraestrutura, recursos).
+   3. Proposição de Estratégias Iniciais: Desenvolver conceitos, protótipos ou arquiteturas de solução.
+* O QUE ENTREGAR: Relatório do Projeto de Extensão preenchido (análise crítica, fatores-chave, estratégias de solução).
+FASE IV - COLETA DE INFORMAÇÕES
+(Cursos: Sistemas de Informação, Ciência da Computação, Computação em Nuvem, ADS, Eng. de Software, Eng. da Computação, Jogos Digitais, Ciência de Dados)
+* OBJETIVO: Desenvolver competências na coleta, organização e análise de dados (técnicos, de requisitos, de mercado) e consolidar as informações para fundamentar as propostas.
+* O QUE FAZER:
+   1. Planejamento de Coleta de Dados: Elaborar plano individual, métodos e ferramentas (entrevistas, APIs, web scraping), identificar fontes.
+   2. Coleta de Informações: Conduzir atividades de campo, coletar dados (estruturados ou não) e documentar.
+   3. Organização e Análise dos Dados: Processar e limpar dados (Python, R, Excel), aplicar análise básica, (Para ADS/Jogos) realizar modelagem inicial (UML, mecânicas de jogo).
+   4. Produção de um Relatório ou Dossiê: Consolidar dados e achados em relatório técnico / dossiê de design.
+   5. Palestra ou Treinamento (Opcional): Desenvolver proposta (segurança, ferramentas digitais).
+* O QUE ENTREGAR: Relatório do Projeto de Extensão (Relatório ou Dossiê) preenchido. (Opcional) Evidências da Palestra.
+FASE V - CONSTRUÇÃO E EXECUÇÃO PRELIMINAR DO PROJETO
+(Cursos: Sistemas para Internet, Sistemas de Informação, Eng. de Software, Eng. da Computação, Ciência da Computação, ADS, Ciência de Dados)
+* OBJETIVO: Consolidar competências para estruturar e planejar um projeto de intervenção detalhado (plano de ação, cronograma, indicadores) e testar parcialmente a proposta (piloto) para validar e coletar feedback.
+* O QUE FAZER:
+   1. Estruturação Completa do Projeto: Introdução/Justificativa, Objetivo Geral/Específicos, Público-alvo, Metodologia/Plano de Ação (Requisitos, Modelagem, Dev, Testes, Ferramentas UML, Ágil, Python), Recursos, Cronograma, Indicadores.
+   2. Execução Preliminar (Piloto):
+      * Seleção e Planejamento: Decidir o que testar em menor escala (módulo, protótipo, modelo de ML).
+      * Implementação: Preparar ambiente (homologação, bancada) e aplicar com grupo reduzido.
+      * Coleta de Evidências: Coletar (prints, logs, medições, questionários).
+      * Avaliação e Ajustes: Identificar problemas, coletar sugestões e revisar o plano.
+   3. Documentação e Reflexão: Elaborar Relatório de Execução Preliminar e revisar o projeto.
+   4. Palestras ou Treinamentos (Opcional): Definir tema (segurança web, robótica) e preparar material.
+* O QUE ENTREGAR:
+   1. Documento de Estruturação Completa do Projeto (Plano de Ação detalhado).
+   2. Relatório de Execução Preliminar (Piloto).
+   3. (Opcional) Evidências de Palestras ou Treinamentos.
+   4. Refinamento Final do Projeto (Versão Atualizada do Plano).
+FASE VI - EXECUÇÃO DAS ATIVIDADES
+(Cursos: Ciência da Computação, Eng. da Computação, Sistemas de Informação)
+* OBJETIVO: Consolidar competências para executar um projeto de intervenção real, colocando em prática as soluções (hardware, software) planejadas, monitorando sua efetividade, realizando ajustes e lidando com imprevistos.
+* O QUE FAZER:
+   1. Início da Implementação: Revisar o plano do PEX V, confirmar parceria e garantir recursos.
+   2. Execução das Atividades: Realizar as ações (desenvolvimento, instalação, configuração, testes), interagir com beneficiários e registrar a execução.
+   3. Monitoramento do Progresso: Acompanhar usando indicadores, identificar falhas e atuar corretivamente, validar com os envolvidos.
+   4. Gestão de Imprevistos e Adaptações: Desenvolver soluções alternativas.
+   5. Avaliação Parcial dos Resultados: Analisar efeitos iniciais e percepção dos beneficiários.
+   6. Palestra ou Treinamento (Opcional).
+* O QUE ENTREGAR:
+   1. Planejamento e Alinhamento Técnico: Documentação de contatos, objetivos, cronograma, requisitos.
+   2. Execução e Testes Práticos: Registros detalhados, testes funcionais, observações.
+   3. Análise Técnica e Diagnóstico: Avaliação crítica, identificação de falhas.
+   4. Propostas e Plano de Continuidade: Relatório técnico com recomendações e soluções.
+   5. (Para SI) Relatórios específicos (Contatos, Plano, Atas, Atividades Práticas, Análise Crítica, Mapa de Oportunidades, Proposta, Plano de Ação).
+FASE VII - AVALIAÇÃO DE RESULTADOS E PROPOSTAS DE MELHORIA
+(Cursos: Eng. de Software, Ciência da Computação, Eng. da Computação, Sistemas de Informação)
+* OBJETIVO: Consolidar competências para avaliar criticamente os resultados de um projeto de intervenção (hardware, software) executado, identificar impactos, pontos fortes, melhorias e propor ajustes técnicos ou operacionais.
+* O QUE FAZER:
+   1. Coleta e Organização dos Resultados: Reunir todos os registros (relatórios, fotos, códigos-fonte, esquemáticos), compilar dados, revisar indicadores e colher feedback formal.
+   2. Avaliação de Impacto e Efetividade: Avaliar o impacto (mudanças percebidas, relevância).
+   3. Identificação de Sucessos e Desafios: Mapear acertos e dificuldades (falhas operacionais, limitações técnicas).
+   4. Propostas de Melhoria: Sugerir ajustes (redesenho, novas ferramentas) e refletir sobre continuidade/escalabilidade.
+   5. Produção do Relatório Final de Avaliação: Estruturar documento completo (Resumo, Resultados, Avaliação crítica, Propostas) e anexar evidências.
+   6. Palestra ou Treinamento (Opcional).
+* O QUE ENTREGAR:
+   * Relatório Final de Avaliação (Resumo, Resultados, Avaliação crítica, Propostas, Considerações finais).
+   * Evidências Anexas (fotos, materiais, feedbacks, gráficos, etc.).
