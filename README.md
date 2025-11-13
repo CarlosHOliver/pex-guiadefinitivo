@@ -881,7 +881,7 @@ Você não está sozinho nessa jornada! A Descomplica oferece canais de suporte 
         >  Estudos -> Conteúdo e Tutoria -> Tutoria -> Falar com Tutor -> Disciplina Projeto de Extensão -> Digitar sua dúvida
 
 *   **Monitoria:** A Descomplica oferece monitorias específicas para o PEX, onde monitores (alunos mais experientes) podem auxiliar com dúvidas mais pontuais e dar dicas práticas. Verifique os horários das monitorias nos cards na página inicial da plataforma. 
-    - Conheça os monitores [clicando aqui.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjjaMY4LMGHnJXBcOY2dwumSGJ7AkFoYhwBwyC6qXCx8AttvKsRPOvCNSMX3evABZv1ryM_VIJAqzZ/pubhtml?gid=1487663872&single=true&utm_campaign=%5BCS%20Gradua%C3%A7%C3%A3o%5D%20Ongoing&utm_medium=email&_hsenc=p2ANqtz-_mewSeep7XtsnyLYbSFXhiDZIcD7c6TCqgDA5mLR95RZt7_xudeBR487bHH6xWdIwLCVu-13CJT_RLLDrY8UCwz9WjbQ&_hsmi=371938538&utm_content=371938538&utm_source=hs_email)
+    - Conheça os monitores [clicando aqui.](https://linktr.ee/DescomplicaFaculdadeDigital_)
     - Faça perguntas relativas ao PEX [clicando aqui](https://docs.google.com/forms/d/e/1FAIpQLSfIF8sNzxC20n7nYkmQJe5s3jyPR3hmiEydjeIPMlJS7a6fwg/viewform)
         - Veja as respostas [clicando aqui](https://docs.google.com/spreadsheets/d/1KBaABNK6AsEDeCefvJ78GxFhan8suep09ri0e4d9L78/edit?gid=1914202926#gid=1914202926)
 *   **Central de Atendimento:** Para dúvidas administrativas ou problemas técnicos com a plataforma, utilize a Central de Atendimento da Descomplica. É importante abrir tickets para registrar suas solicitações e acompanhar as respostas.
