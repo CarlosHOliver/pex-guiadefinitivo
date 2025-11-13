@@ -79,7 +79,7 @@ A principal diferença está no foco do primeiro semestre. O **PEX I** agora tem
 
 >**Para Veteranos (que cursaram o modelo antigo):** Fique tranquilo, seu **PEX I** continua válido e não precisa ser refeito. Seu papel agora é de um mentor valioso, ciente de que a jornada para os novos colegas é diferente e mais estruturada no início.
 
-Essa mudança visa garantir uma preparação mais consistente para todos os estudantes, resultando em projetos de maior qualidade e impacto. Para detalhes específicos, lembre-se sempre de consultar o roteiro oficial na plataforma Workalove.
+Essa mudança visa garantir uma preparação mais consistente para todos os estudantes, resultando em projetos de maior qualidade e impacto. Para detalhes específicos, lembre-se sempre de consultar o roteiro oficial na plataforma correspondente (Plataforma de Aulas a partir de 2026.1, ou Workalove até 2025.4 para veteranos).
 
 ---
 
@@ -109,18 +109,21 @@ Essa categorização ajuda a direcionar o tipo de problema que você pode aborda
 
 #### 2.3.1. Mudança Importante na Plataforma de Entrega (2025.4)
 
-A partir do **trimestre 2025.4 (Dezembro de 2025)**, houve uma mudança significativa na forma de entrega dos Projetos de Extensão. A Descomplica migrou o processo de entrega da **Central de Carreiras (Workalove)** para a **Plataforma de Aulas**, no módulo específico para Projetos de Extensão.
+A partir do **trimestre 2025.4 (Dezembro de 2025)**, houve uma mudança significativa na forma de entrega dos Projetos de Extensão. A Descomplica está migrando o processo de entrega da **Central de Carreiras (Workalove)** para a **Plataforma de Aulas**, no módulo específico para Projetos de Extensão.
+
+**Importante:** A partir de **2026.1 (Abril de 2026)**, **TODOS os alunos** (veteranos e calouros) utilizarão exclusivamente a **Plataforma de Aulas** para acessar roteiros e realizar entregas do PEX.
 
 **Resumo das plataformas por período:**
 
-| Período de Ingresso | Plataforma de Entrega | Observações |
-|---------------------|----------------------|-------------|
+| Período | Plataforma de Entrega | Observações |
+|---------|----------------------|-------------|
 | Até 2025.3 | Central de Carreiras (Workalove) | Alunos veteranos que iniciaram antes de 2025.4 |
-| A partir de 2025.4 | Plataforma de Aulas (Módulo PEX) | Nova plataforma centralizada com as aulas |
+| 2025.4 | Transição | Calouros de 2025.4 usam Plataforma de Aulas; Veteranos ainda podem usar Workalove |
+| A partir de 2026.1 | Plataforma de Aulas (Módulo PEX) | **TODOS os alunos** (veteranos e calouros) utilizam a nova plataforma |
 
-#### 2.3.2. Como Acessar a Nova Plataforma (2025.4 em diante)
+#### 2.3.2. Como Acessar a Nova Plataforma (2026.1 em diante)
 
-Para alunos que iniciaram a partir do trimestre 2025.4, a entrega do PEX será feita diretamente na **Plataforma de Aulas**:
+A partir de **2026.1**, todos os alunos acessarão o PEX através da **Plataforma de Aulas**:
 
 1. Acesse a Plataforma de Aulas da Descomplica
 2. Localize o **Módulo Específico para Projetos de Extensão** na sua grade curricular
@@ -136,21 +139,23 @@ Para alunos que iniciaram a partir do trimestre 2025.4, a entrega do PEX será f
 - Interface integrada com o ambiente de estudos
 - Comunicação direta com professores orientadores
 
-#### 2.3.3. Central de Carreiras (Workalove) - Para veteranos
+#### 2.3.3. Central de Carreiras (Workalove) - Período de Transição
 
-Alunos que iniciaram antes do trimestre 2025.4 ainda podem utilizar a **Central de Carreiras (Workalove)** para acompanhar seus projetos anteriores. Esta plataforma permite:
+Durante o trimestre 2025.4, alunos veteranos ainda podem utilizar a **Central de Carreiras (Workalove)** para:
 
-*   Acompanhar o status de projetos já entregues
-*   Acessar histórico de entregas
-*   Consultar feedbacks de bancas anteriores
+*   Acessar roteiros de PEX em andamento
+*   Acompanhar o status de projetos em desenvolvimento
+*   Realizar entregas do trimestre 2025.4
 
-**Importante:** Mesmo para veteranos, verifique as orientações específicas do seu coordenador de curso sobre qual plataforma utilizar para novas entregas.
+**Atenção Veteranos:** A partir de **2026.1**, você deverá migrar para a **Plataforma de Aulas** para todas as novas entregas e acompanhamentos. O Workalove ficará disponível apenas para consulta de histórico de projetos anteriores.
+
+**Importante:** Independentemente do seu período de ingresso, verifique sempre as orientações específicas do seu coordenador de curso e fique atento aos comunicados oficiais sobre a plataforma a ser utilizada.
 
 ### 2.4. Prazos e Cronogramas (Importância do Calendário Acadêmico)
 
-Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o [**Calendário Acadêmico Oficial da Descomplica**](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753) e verifique as datas específicas de entrega do seu projeto na plataforma correspondente (Plataforma de Aulas para ingressantes a partir de 2025.4, ou Workalove para veteranos). O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
+Os prazos para a entrega do PEX são rigorosos e variam de acordo com o período de ingresso do aluno. É crucial que você consulte o [**Calendário Acadêmico Oficial da Descomplica**](https://docs.google.com/spreadsheets/d/19go70mkQErp1Yt2gK_xoHmry0s7v6di1tOyF2voIgTU/edit?gid=1291527753#gid=1291527753) e verifique as datas específicas de entrega do seu projeto na plataforma correspondente (Plataforma de Aulas a partir de 2026.1, ou Workalove até o final de 2025.4 para veteranos). O não cumprimento dos prazos pode acarretar em atrasos na sua formação.
 
-Para alunos calouros que ingressaram a partir do trimestre 25.3 (início das aulas em agosto/2025), o primeiro ciclo do PEX (PEX I) será de caráter teórico, com foco na compreensão do funcionamento do projeto de extensão. O roteiro para essa etapa estará disponível na plataforma de aulas (para ingressantes de 2025.4 em diante) ou na plataforma Workalove (para veteranos). Já a partir do PEX II, a entrega envolve a execução prática do Projeto de Extensão em campo, seguindo as instruções do roteiro e enviando as evidências pela plataforma.
+Para alunos calouros que ingressaram a partir do trimestre 25.3 (início das aulas em agosto/2025), o primeiro ciclo do PEX (PEX I) será de caráter teórico, com foco na compreensão do funcionamento do projeto de extensão. O roteiro para essa etapa estará disponível na Plataforma de Aulas (para ingressantes de 2025.4 em diante) ou na plataforma Workalove (para veteranos até 2025.4). Já a partir do PEX II, a entrega envolve a execução prática do Projeto de Extensão em campo, seguindo as instruções do roteiro e enviando as evidências pela plataforma.
 
 **Dica:** Anote as datas importantes do PEX em sua agenda pessoal e configure lembretes para garantir que você não perca nenhum prazo. O planejamento é a chave para o sucesso do seu projeto.
 
@@ -196,7 +201,7 @@ Projetos de Extensão em grupo são aceitos e até incentivados pela Descomplica
 
 ### 3.5. Entendendo o Roteiro do PEX: Seu Guia Essencial
 
-Na Descomplica, você não escolhe o tema do seu Projeto de Extensão de forma livre. O tema do PEX é, na verdade, o **roteiro disponibilizado na plataforma de aulas** (para ingressantes a partir de 2025.4) ou na **plataforma Workalove** (para veteranos). Os primeiros PEXs são roteiros pré-determinados, o que significa que a faculdade já estabelece as diretrizes e os objetivos gerais que seu projeto deve seguir. Esse roteiro é seu guia essencial para o desenvolvimento do PEX, detalhando as etapas, as competências a serem desenvolvidas e o que se espera da sua entrega.
+Na Descomplica, você não escolhe o tema do seu Projeto de Extensão de forma livre. O tema do PEX é, na verdade, o **roteiro disponibilizado na Plataforma de Aulas** (a partir de 2026.1 para todos os alunos, ou já disponível para calouros de 2025.4) ou na **plataforma Workalove** (para veteranos até 2025.4). Os primeiros PEXs são roteiros pré-determinados, o que significa que a faculdade já estabelece as diretrizes e os objetivos gerais que seu projeto deve seguir. Esse roteiro é seu guia essencial para o desenvolvimento do PEX, detalhando as etapas, as competências a serem desenvolvidas e o que se espera da sua entrega.
 
 É vital ler e compreender o roteiro desde o início, pois ele orientará todas as suas ações, desde a identificação do problema até a elaboração do relatório final. Caso tenha dúvidas sobre o roteiro, procure o professor da disciplina ou os canais de suporte da Descomplica.
 
@@ -748,7 +753,7 @@ Este é o documento que você utiliza para se apresentar formalmente à institui
 - Esclarece que não gera vínculo empregatício
 - Oferece contatos da instituição para esclarecimentos
 
-**Importante:** Ambos os documentos devem ser solicitados na plataforma de aulas (para ingressantes de 2025.4 em diante) ou na Central de Carreiras/Workalove (para veteranos).
+**Importante:** Ambos os documentos devem ser solicitados na Plataforma de Aulas (a partir de 2026.1 para todos, ou já disponível para calouros de 2025.4) ou na Central de Carreiras/Workalove (para veteranos até 2025.4).
 
 ---
 
@@ -764,7 +769,7 @@ R: É uma atividade prática e obrigatória em que o aluno aplica os conheciment
 
 **P: O PEX é obrigatório? Quando começo?**
 
-R: Sim, é obrigatório para alunos que ingressaram a partir de agosto de 2023 (trimestre 2023.3). A faculdade informa por e-mail e no ambiente virtual (Workalove) quando os roteiros de PEX serão liberados e quais são os prazos de entrega.
+R: Sim, é obrigatório para alunos que ingressaram a partir de agosto de 2023 (trimestre 2023.3). A faculdade informa por e-mail e no ambiente virtual (Plataforma de Aulas a partir de 2026.1, ou Workalove até 2025.4) quando os roteiros de PEX serão liberados e quais são os prazos de entrega.
 
 **P: Qual é a carga horária do PEX?**
 
@@ -836,16 +841,21 @@ Para complementar as informações deste guia e auxiliar ainda mais no desenvolv
 
 O [Manual do Projeto de Extensão](https://1653949.fs1.hubspotusercontent-na1.net/hubfs/1653949/Manual%20Projeto%20de%20Extens%C3%A3o%202024.pdf) é um documento oficial da Descomplica que detalha as diretrizes, regras e procedimentos para a realização do PEX. Ele serve como um guia completo, abordando desde a conceituação até as etapas de execução e avaliação. É altamente recomendável que você acesse e leia este manual com atenção, pois ele contém informações específicas que podem não estar totalmente detalhadas neste guia.
 
-Você pode acessar o Manual do Projeto de Extensão diretamente pela plataforma Workalove ou pelos canais de comunicação da Descomplica. Mantenha-o sempre à mão para consulta, especialmente quando surgirem dúvidas sobre aspectos regulamentares ou operacionais do seu projeto.
+Você pode acessar o Manual do Projeto de Extensão diretamente pela Plataforma de Aulas (a partir de 2026.1) ou pela plataforma Workalove (até 2025.4 para veteranos), além dos canais de comunicação da Descomplica. Mantenha-o sempre à mão para consulta, especialmente quando surgirem dúvidas sobre aspectos regulamentares ou operacionais do seu projeto.
 
 ### 6.2. Plataforma Workalove: Funcionalidades Essenciais
 
-A Central de Carreiras Workalove é a plataforma central para todas as atividades relacionadas ao seu PEX. Além de ser o local de entrega do seu projeto, ela oferece funcionalidades essenciais para o seu acompanhamento:
+**Atenção:** A partir de **2026.1**, a Plataforma de Aulas será o ambiente principal para o PEX. As informações abaixo referem-se ao Workalove apenas para fins de consulta histórica ou durante o período de transição (2025.4).
 
-*   **Roteiros e Materiais de Apoio:** A Workalove disponibiliza os roteiros específicos para cada PEX (PEX I, PEX II, etc.), que são o seu guia para o desenvolvimento do projeto. Além disso, você encontrará materiais de apoio, templates e orientações adicionais para cada etapa.
-*   **Acompanhamento do Status:** Através da plataforma, você pode acompanhar o status do seu projeto e feedback.
+A Central de Carreiras Workalove foi a plataforma utilizada até o trimestre 2025.4 para atividades relacionadas ao PEX. Durante o período de transição, ela ainda pode ser acessada por veteranos para:
 
-Familiarize-se com a interface e as funcionalidades da Workalove para otimizar seu tempo e garantir que todas as etapas do seu PEX sejam cumpridas corretamente.
+*   **Consulta de Histórico:** Visualizar projetos anteriores já entregues
+*   **Acesso a Roteiros Antigos:** Consultar roteiros de PEXs já realizados
+*   **Evidências de Entregas Passadas:** Recuperar documentação de projetos concluídos
+
+**A partir de 2026.1, todos os alunos devem utilizar exclusivamente o Módulo de Projeto de Extensão na Plataforma de Aulas** para novas entregas, acompanhamento e acesso a roteiros.
+
+Familiarize-se com a nova interface da Plataforma de Aulas para otimizar seu tempo e garantir que todas as etapas do seu PEX sejam cumpridas corretamente.
 
 ### 6.3. Onde Encontrar Projetos Destaques (Anais da Faculdade)
 
@@ -896,7 +906,7 @@ Para evitar dúvidas e garantir que seu projeto esteja 100% alinhado com as regr
 
 *   **Realizar o PEX de forma 100% online:** O PEX exige presencialidade. Atividades como cursos e capacitações online são consideradas Atividades Complementares.
 *   **Utilizar projetos ou experiências antigas:** O PEX deve ser realizado durante o período vigente da disciplina. Atividades passadas não são aceitas.
-*   **Escolher um tema livre, sem seguir o roteiro:** O tema do seu PEX é o roteiro disponibilizado na plataforma Workalove. Você deve seguir as diretrizes estabelecidas.
+*   **Escolher um tema livre, sem seguir o roteiro:** O tema do seu PEX é o roteiro disponibilizado na Plataforma de Aulas (a partir de 2026.1) ou Workalove (até 2025.4). Você deve seguir as diretrizes estabelecidas.
 *   **Entregar o relatório sem evidências:** O relatório final deve obrigatoriamente conter evidências da sua atuação, como fotos, prints e o Termo de Autorização assinado.
 *   **Deixar de entregar o PEX:** O Projeto de Extensão é uma disciplina obrigatória e sua não realização impede a conclusão do curso e a colação de grau.
 *   **Realizar o projeto sem impacto social claro:** O PEX deve ir além de uma simples atividade acadêmica; ele precisa gerar um benefício real e mensurável para a comunidade ou instituição parceira.
