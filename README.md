@@ -109,9 +109,9 @@ Essa categorização ajuda a direcionar o tipo de problema que você pode aborda
 
 #### 2.3.1. Mudança Importante na Plataforma de Entrega (2025.4)
 
-A partir do **trimestre 2025.4 (Dezembro de 2025)**, houve uma mudança significativa na forma de entrega dos Projetos de Extensão. A Descomplica está migrando o processo de entrega da **Central de Carreiras (Workalove)** para a **Plataforma de Aulas**, no módulo específico para Projetos de Extensão.
+A partir do **trimestre 2025.4 (Outubro de 2025)**, houve uma mudança significativa na forma de entrega dos Projetos de Extensão. A Descomplica está migrando o processo de entrega da **Central de Carreiras (Workalove)** para a **Plataforma de Aulas**, no módulo específico para Projetos de Extensão.
 
-**Importante:** A partir de **2026.1 (Abril de 2026)**, **TODOS os alunos** (veteranos e calouros) utilizarão exclusivamente a **Plataforma de Aulas** para acessar roteiros e realizar entregas do PEX.
+**Importante:** A partir de **2026.1 (Janeiro de 2026)**, **TODOS os alunos** (veteranos e calouros) utilizarão exclusivamente a **Plataforma de Aulas** para acessar roteiros e realizar entregas do PEX.
 
 **Resumo das plataformas por período:**
 

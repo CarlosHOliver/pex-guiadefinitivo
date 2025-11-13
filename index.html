@@ -216,12 +216,7 @@
                     '<a href="$1" target="_blank"$2>$3</a>');
                 
                 // Adicionar classes para diferentes tipos de blocos
-                html = html.replace(/<p><strong>Dica:<\/strong>/g, '<div class="highlight info"><p><strong>💡 Dica:</strong>');
-                html = html.replace(/<p><strong>Importante:<\/strong>/g, '<div class="highlight danger"><p><strong>⚠️ Importante:</strong>');
-                html = html.replace(/<p><strong>Exemplo Prático:<\/strong>/g, '<div class="highlight success"><p><strong>📝 Exemplo Prático:</strong>');
-                
-                // Fechar as divs dos blocos de destaque
-                html = html.replace(/(<div class="highlight[^>]*><p><strong>[^<]*<\/strong>[^<]*<\/p>)/g, '$1</div>');
+                // Remover formatação automática para evitar problemas com blocos multi-parágrafo
                 
                 document.getElementById('content').innerHTML = html;
                 
